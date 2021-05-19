@@ -1,0 +1,39 @@
+<div class="ovent-sidebar">
+    <div class="widget-box categories-box-2 mb-30">
+        <h3 class="widget-title"><span class="line"></span>Category</h3>
+        <ul>
+            <li *ngFor="let item of shopcategory">
+                <a routerLink="/shop/cat/{{item.id}}">{{item.title}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="widget-box keyword-box mb-30">
+        <h3 class="widget-title"><span class="line"></span>Keyword</h3>
+        <ul>
+            <li *ngFor="let item of shoptags">
+                <a routerLink="/shop/tag/{{item.id}}">{{item.title}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="widget-box newsletter-box mb-30">
+        <h3 class="widget-title"><span class="line"></span>Keyword</h3>
+        <div class="newsletter-form">
+            <p>Lorem ipsum dolor sit asecte is tur adipisicing elit.</p>
+            <form>
+                <div class="form_group">
+                    <input type="email" class="form_control" placeholder="Enter email" name="name" required>
+                    <i class="fal fa-envelope"></i>
+                </div>
+                <div class="form_button">
+                    <button class="subscribe-btn">Subscribe Now</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="widget-box add-box">
+        <div class="add-img">
+            <img src="assets/images/add-2.jpg" class="img-fluid" alt="">
+            <a routerLink="/contact" class="add-btn">Add Banner</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,35 @@
+// Font Family
+$montserrat: 'Montserrat', sans-serif;
+$karla: 'Karla', sans-serif;
+
+
+// Colors ---------------
+$white: #fff;
+
+$black: #222;
+
+$grey:#f7f7fd;
+
+$theme-color: #ec398b;
+
+$text-color: #497898;
+
+$hr-border-color:#eceff8;
+
+
+// Heading Color
+$heading-color: #000637;
+
+// Soft color
+$black-soft:#5a70a1;
+
+
+// Responsive Variables
+$desktop: 'only screen and (min-width: 1600px)';
+$laptop: 'only screen and (min-width: 1200px) and (max-width: 1600px)';
+$lg: 'only screen and (min-width: 992px) and (max-width: 1200px)';
+$md:'only screen and (min-width: 768px) and (max-width: 991px)';
+$xs:'(max-width: 767px)';
+$xss:'(max-width: 359px)';
+$smm: 'only screen and (min-width: 400px) and (max-width: 767px)';
+$sm: 'only screen and (min-width: 500px) and (max-width: 767px)';

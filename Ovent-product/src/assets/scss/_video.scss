@@ -1,0 +1,179 @@
+
+
+
+/*===========================
+    5.	INTRO VIDEO css 
+===========================*/
+
+
+
+.video-area-v1{
+	padding-top: 120px;
+	padding-bottom: 236px;
+	position: relative;
+	&::before{
+		position: absolute;
+		content: '';
+		left: 0;
+		top: 0;
+		height: 100%;
+		width: 100%;
+		background-color: rgba(0, 6, 55,.9);
+	}
+	& .ovent-content-box{
+		& .section-title-1{
+			margin-bottom: 20px;
+			& .span{
+				background-image: -moz-linear-gradient( 0deg, rgb(198,0,255) 0%, rgb(255,177,177) 100%);
+				background-image: -webkit-linear-gradient( 0deg, rgb(198,0,255) 0%, rgb(255,177,177) 100%);
+				background-image: -ms-linear-gradient( 0deg, rgb(198,0,255) 0%, rgb(255,177,177) 100%);
+			}
+			& h2{
+				color: $white;
+			}
+		}
+		& h4{
+			color: #00fff0;
+		}
+		& p{
+			color: #babfe6;
+			padding-top: 22px;
+			padding-right: 30px;
+		}
+	}
+	& .intro-video-play{
+		margin-right: 45px;
+		text-align: right;
+		@media #{$xs}{
+			margin-right: 0;
+    		text-align: center;
+    		margin-top: 60px;
+		}
+		@media #{$md}{
+			margin-right: 0;
+    		text-align: center;
+    		margin-top: 60px;
+		}
+		& a{
+			height: 90px;
+			width: 90px;
+			text-align: center;
+			line-height: 90px;
+			background: $theme-color;
+			border-radius: 50%;
+			color: $white;
+			position: relative;
+			&::before{
+				position: absolute;
+				content: '';
+				left: 0;
+				top: 0;
+				height: 100%;
+				width: 100%;
+				border: 1px solid $white;
+				border-radius: 50%;
+				animation: pulse-border-2 1.5s linear infinite;
+			}
+			&::after{
+				position: absolute;
+				content: '';
+				left: 0;
+				top: 0;
+				height: 100%;
+				width: 100%;
+				border: 1px solid $white;
+				border-radius: 50%;
+				animation: pulse-border-2 2s linear infinite;
+
+			}
+		}
+	}
+}
+
+.video-area-v2{
+	position: relative;
+	padding-bottom: 400px;
+	& .ovent-overlay{
+		background: #000637;
+		opacity: .70;
+	}
+	& .section-title-3{
+		& .span{
+			color: #2affe8;
+		}
+		& h2{
+			color: $white;
+		}
+	}
+	& .intro-video-play{
+		margin-top: 45px;
+		& a{
+			height: 90px;
+			width: 90px;
+			text-align: center;
+			line-height: 90px;
+			background: $theme-color;
+			border-radius: 50%;
+			color: $white;
+			position: relative;
+			&::before{
+				position: absolute;
+				content: '';
+				left: 0;
+				top: 0;
+				height: 100%;
+				width: 100%;
+				border: 1px solid $white;
+				border-radius: 50%;
+				animation: pulse-border-2 1.5s linear infinite;
+			}
+			&::after{
+				position: absolute;
+				content: '';
+				left: 0;
+				top: 0;
+				height: 100%;
+				width: 100%;
+				border: 1px solid $white;
+				border-radius: 50%;
+				animation: pulse-border-2 2s linear infinite;
+
+			}
+		}
+	}
+}
+
+
+
+@keyframes pulse-border {
+  0% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    opacity: 1; }
+  100% {
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    -o-transform: scale(2);
+    transform: scale(2);
+    opacity: 0; } }
+@keyframes pulse-border-2 {
+  0% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    opacity: 1; }
+  100% {
+    -webkit-transform: scale(1.8);
+    -moz-transform: scale(1.8);
+    -ms-transform: scale(1.8);
+    -o-transform: scale(1.8);
+    transform: scale(1.8);
+    opacity: 0; } }
+
+

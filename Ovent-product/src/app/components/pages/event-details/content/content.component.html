@@ -1,0 +1,83 @@
+<section class="event-single-section pt-120 pb-50" *ngFor="let item of eventdetails">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="event-details-wrapper">
+                    <div class="event-img">
+                        <img [src]="item.eventbig" class="img-fluid" [alt]="item.title">
+                    </div>
+                    <div class="event-info">
+                        <span *ngFor="let cat of getCategory(item.category) | slice:0:1">{{cat.title}}</span>
+                        <h3>{{item.title}}</h3>
+                        <p>{{item.shortdesc}}</p>
+                        <div class="row">
+                            <div class="col-lg-3 col-md-6 col-sm-12" *ngFor="let beve of item.blocks">
+                                <div class="box">
+                                    <i [class]="beve.icon"></i>
+                                    <h6>{{beve.title}}</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div [innerHtml]="item.htmldesc"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="ovent-sidebar event-sidebar">
+                    <div class="widget-box video-box mb-40">
+                        <div class="ovent-img">
+                            <img [src]="item.eventimg" class="img-fluid w-100" [alt]="item.title">
+                            <div class="play-button">
+                                <a href="#" class="video-popup"><i class="far fa-play"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="widget-box get-box bg_cover mb-40" [style.background-image]="'url(assets/images/get-1.jpg)'">
+                        <div class="ovent-overlay"></div>
+                        <div class="title">
+                            <span>get in touch</span>
+                            <h3>Have Any Query</h3>
+                            <p>Lorem ipsum dolor sit amet, consecte tur adipisicing elit, sed do.</p>
+                            <a routerLink="/contact" class="main-btn"><i class="fal fa-arrow-right"></i>Get A Quote</a>
+                        </div>
+                    </div>
+                    <div class="widget-box contact-box mb-40">
+                        <div class="title">
+                            <span>don’t find yet</span>
+                            <h3>Please Tell Here</h3>
+                        </div>
+                        <form>
+                            <div class="form_group">
+                                <input type="text" class="form_control" placeholder="Enter your name">
+                                <i class="fal fa-user"></i>
+                            </div>
+                            <div class="form_group">
+                                <input type="email" class="form_control" placeholder="Enter your email">
+                                <i class="fal fa-envelope"></i>
+                            </div>
+                            <div class="form_group">
+                                <input type="text" class="form_control" placeholder="Enter your subject/question">
+                                <i class="far fa-question"></i>
+                            </div>
+                            <div class="form_button">
+                                <button class="main-btn"><i class="fal fa-arrow-right"></i>Submit Now</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="widget-box about-box">
+                        <div class="title">
+                            <span>about</span>
+                            <h3>About Conference</h3>
+                            <p>Aliquam non est mattis, pellentesque diam placerat,blandit leo. Etiam posuere quis quam a ultricies ass.Praesent varius augue urna, ut scelerisque is with us augue lobortis eget.</p>
+                            <ul>
+                                <li *ngFor="let text of item.aboutevent">
+                                    <i [class]="text.icon"></i>{{text.title}}
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

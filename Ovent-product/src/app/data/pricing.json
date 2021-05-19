@@ -1,0 +1,128 @@
+[
+    {
+        "id":1,
+        "title":"Day Event",
+        "plans":[
+            {
+                "name":"Early Bird",
+                "price":45,
+                "beverages":[
+                    {
+                        "icon":"fal fa-coffee",
+                        "title":"Coffee"
+                    },
+                    {
+                        "icon":"fal fa-video",
+                        "title":"Video"
+                    },
+                    {
+                        "icon":"fal fa-box",
+                        "title":"Gift"
+                    }
+                ],
+                "shortdesc":"In order to save time you have to break down the content strategy for the event or conference."
+            },
+            {
+                "name":"Early Bird",
+                "price":999,
+                "beverages":[
+                    {
+                        "icon":"fal fa-coffee",
+                        "title":"Coffee"
+                    },
+                    {
+                        "icon":"fal fa-video",
+                        "title":"Video"
+                    },
+                    {
+                        "icon":"fal fa-box",
+                        "title":"Gift"
+                    }
+                ],
+                "shortdesc":"In order to save time you have to break down the content strategy for the event or conference."
+            },
+            {
+                "name":"Early Bird",
+                "price":299,
+                "beverages":[
+                    {
+                        "icon":"fal fa-coffee",
+                        "title":"Coffee"
+                    },
+                    {
+                        "icon":"fal fa-video",
+                        "title":"Video"
+                    },
+                    {
+                        "icon":"fal fa-box",
+                        "title":"Gift"
+                    }
+                ],
+                "shortdesc":"In order to save time you have to break down the content strategy for the event or conference."
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"Night Event",
+        "plans":[
+            {
+                "name":"Early Bird",
+                "price":45,
+                "beverages":[
+                    {
+                        "icon":"fal fa-coffee",
+                        "title":"Coffee"
+                    },
+                    {
+                        "icon":"fal fa-video",
+                        "title":"Video"
+                    },
+                    {
+                        "icon":"fal fa-box",
+                        "title":"Gift"
+                    }
+                ],
+                "shortdesc":"In order to save time you have to break down the content strategy for the event or conference."
+            },
+            {
+                "name":"Early Bird",
+                "price":999,
+                "beverages":[
+                    {
+                        "icon":"fal fa-coffee",
+                        "title":"Coffee"
+                    },
+                    {
+                        "icon":"fal fa-video",
+                        "title":"Video"
+                    },
+                    {
+                        "icon":"fal fa-box",
+                        "title":"Gift"
+                    }
+                ],
+                "shortdesc":"In order to save time you have to break down the content strategy for the event or conference."
+            },
+            {
+                "name":"Early Bird",
+                "price":299,
+                "beverages":[
+                    {
+                        "icon":"fal fa-coffee",
+                        "title":"Coffee"
+                    },
+                    {
+                        "icon":"fal fa-video",
+                        "title":"Video"
+                    },
+                    {
+                        "icon":"fal fa-box",
+                        "title":"Gift"
+                    }
+                ],
+                "shortdesc":"In order to save time you have to break down the content strategy for the event or conference."
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+<section class="ovent-faq-section pt-120 pb-120">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="faq_wrapper">
+                    <ngb-accordion [closeOthers]="true" activeIds="static-1">
+                        <ngb-panel id="static-{{1+i}}" *ngFor="let item of faqs;let i = index">
+                            <ng-template ngbPanelTitle>
+                                {{item.title}}<span class="toggle_btn"></span>
+                            </ng-template>
+                            <ng-template ngbPanelContent>
+                                <p>{{item.text}}</p>
+                            </ng-template>
+                        </ngb-panel>
+                    </ngb-accordion>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="ovent-sidebar event-sidebar">
+                    <div class="widget-box get-box bg_cover mb-40"
+                        style="background-image: url(assets/images/get-1.jpg);">
+                        <div class="ovent-overlay"></div>
+                        <div class="title">
+                            <span>get in touch</span>
+                            <h3>Have Any Query</h3>
+                            <p>Lorem ipsum dolor sit amet, consecte tur adipisicing elit, sed do.</p>
+                            <a routerLink="/contact" class="main-btn"><i class="fal fa-arrow-right"></i>Get A Quote</a>
+                        </div>
+                    </div>
+                    <div class="widget-box contact-box mb-40">
+                        <div class="title">
+                            <span>don’t find yet</span>
+                            <h3>Please Tell Here</h3>
+                        </div>
+                        <form>
+                            <div class="form_group">
+                                <input type="text" class="form_control" placeholder="Enter your name">
+                                <i class="fal fa-user"></i>
+                            </div>
+                            <div class="form_group">
+                                <input type="email" class="form_control" placeholder="Enter your email">
+                                <i class="fal fa-envelope"></i>
+                            </div>
+                            <div class="form_group">
+                                <input type="text" class="form_control" placeholder="Enter your subject/question">
+                                <i class="far fa-question"></i>
+                            </div>
+                            <div class="form_button">
+                                <button class="main-btn"><i class="fal fa-arrow-right"></i>Submit Now</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

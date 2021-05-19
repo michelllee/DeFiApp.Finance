@@ -1,0 +1,38 @@
+<section class="about-area-v4 pt-120">
+    <div class="container">
+        <div class="about-we mb-40">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12" *ngFor="let item of aboutgrid">
+                    <div class="grid-item">
+                        <div class="grid-inner-item">
+                            <img [src]="item.icon" [alt]="item.title">
+                            <h4>{{item.title}}</h4>
+                            <p>{{item.text}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="about-me">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-12 col-sm-12">
+                    <div class="about-img">
+                        <img src="assets/images/about-7.jpg" class="img-fluid" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-12 col-sm-12">
+                    <div class="ovent-content-box">
+                        <div class="section-title section-title-3 mb-20">
+                            <span class="span">founder of ovent</span>
+                            <h2>Rosalina D. William</h2>
+                        </div>
+                        <h4>The biggest largest widest anticipated Digital Web Conference.</h4>
+                        <p>Events must be memorable to make an impact. Of course the desired impact depends on your goals, but most companies want events to be more than just a staged advertisement for their brand.</p>
+                        <p>In order to save time you have to break down the content strategy for the event or conference you are planning step by step. Creating this process from scratch will take the longest amount of time to build, but once you have content production foundation.</p>
+                        <img src="assets/images/sign-1.png" alt="Rosalina D. William">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

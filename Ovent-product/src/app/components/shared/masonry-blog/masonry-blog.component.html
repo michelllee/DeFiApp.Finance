@@ -1,0 +1,48 @@
+<ng-masonry-grid *ngIf="showMasonry" class="masonry-gallery row d-flex" [masonryOptions]="{ transitionDuration: '0.4s', percentPosition: true, columnWidth: 1 }"
+[useAnimation]="true" [useImagesLoaded]="true">
+    <ng-masonry-grid-item class="col-lg-3 col-md-6 grid_column">
+        <div class="gallery-blog-item">
+            <img src="assets/images/gallery-blog-1.jpg" alt="">
+            <div class="play">
+                <a class="video-popup" href="#"><i class="fas fa-play"></i></a>
+            </div>
+        </div>
+    </ng-masonry-grid-item>
+    <ng-masonry-grid-item class="col-lg-3 col-md-6 grid_column">
+        <div class="gallery-blog-item">
+            <img src="assets/images/gallery-blog-2.jpg" alt="">
+        </div>
+    </ng-masonry-grid-item>
+    <ng-masonry-grid-item class="col-lg-3 col-md-6 grid_column">
+        <div class="gallery-blog-item">
+            <img src="assets/images/gallery-blog-2.jpg" alt="">
+            <div class="gallery-blog-overlay-1">
+                <span>Best Quote</span>
+                <h3 class="title">The New Era of Tech Companies </h3>
+                <p>- Rosalina D. WIlliam</p>
+                <i class="fal fa-quote-left"></i>
+            </div>
+        </div>
+    </ng-masonry-grid-item>
+    <ng-masonry-grid-item class="col-lg-6 col-md-6 grid_column">
+        <div class="gallery-blog-item">
+            <img src="assets/images/gallery-blog-4.jpg" alt="">
+        </div>
+    </ng-masonry-grid-item>
+    <ng-masonry-grid-item class="col-lg-3 col-md-6 grid_column">
+        <div class="gallery-blog-item">
+            <img src="assets/images/gallery-blog-3.jpg" alt="">
+        </div>
+    </ng-masonry-grid-item>
+    <ng-masonry-grid-item class="col-lg-3 col-md-6 grid_column">
+        <div class="gallery-blog-item">
+            <img src="assets/images/gallery-blog-3.jpg" alt="">
+            <div class="gallery-blog-overlay-2">
+                <div class="item text-center">
+                    <i class="fal fa-newspaper"></i>
+                    <h4 class="title">News Feeds</h4>
+                </div>
+            </div>
+        </div>
+    </ng-masonry-grid-item>
+</ng-masonry-grid>

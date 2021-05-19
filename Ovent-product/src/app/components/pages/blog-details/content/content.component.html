@@ -1,0 +1,159 @@
+<section class="blog-details-section pt-120 pb-120" *ngFor="let item of blogdetails">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="blog-details-wrapper">
+                    <div class="blog-content">
+                        <a routerLink="/blog/cat/{{cat.id}}" *ngFor="let cat of getCategory(item.category)" class="cat mr-2">{{cat.title}}</a>
+                        <h3>{{item.title}}</h3>
+                        <ul class="post-meta">
+                            <li><i class="far fa-eye"></i>{{item.views}} Views</li>
+                            <li><a href="#"><i class="fal fa-calendar-alt"></i>{{item.reviews.length}} Comments</a></li>
+                            <li><i class="far fa-calendar-alt"></i>{{item.postdate}}</li>
+                        </ul>
+                        <div [innerHtml]="item.htmldesc"></div>
+                    </div>
+                    <div class="post-share-tag">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <div class="post-tag">
+                                    <h4>Releted Tags</h4>
+                                    <a routerLink="/blog/tag/{{tag.id}}" *ngFor="let tag of getBlogTags(item.tags)" class="mr-1 mb-1">{{tag.title}}</a> 
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="post-social">
+                                    <h4>Social Share</h4>
+                                    <ul>
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="post-prev-next">
+                        <div class="row">
+                            <div class="col-lg-5 col-md-5">
+                                <div class="box box-1">
+                                    <a routerLink="/">Prev Post</a>
+                                    <h4>Tips On Minimalist</h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <div class="box box-2 text-center">
+                                    <img src="assets/images/icon/icon-7.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-5 col-md-5">
+                                <div class="box box-3">
+                                    <a routerLink="/">Next Post</a>
+                                    <h4>Less Is More</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="related-post">
+                        <h4>Releted Post</h4>
+                        <ngx-slick-carousel #slickModal="slick-carousel" [config]="settings" class="related-post-slide">
+                            <div ngxSlickItem class="blog-item" *ngFor="let post of blogpost">
+                                <div class="blog-img">
+                                    <img [src]="post.img" class="img-fluid w-100" [alt]="post.title">
+                                </div>
+                                <div class="blog-content">
+                                    <span><i class="far fa-calendar-alt"></i>{{post.postdate}}</span>
+                                    <h3><a routerLink="/blog-details/{{post.id}}">{{post.title}}</a></h3>
+                                </div>
+                            </div>
+                        </ngx-slick-carousel>
+                    </div>
+                    <div class="author-box" *ngFor="let author of getAuthor(item.author)">
+                        <div class="author-img">
+                            <img [src]="author.img" class="img-fluid" [alt]="author.name">
+                        </div>
+                        <div class="author-info">
+                            <span>Written by</span>
+                            <h3>{{author.name}}</h3>
+                            <p>{{author.shortdesc}}</p>
+                        </div>
+                    </div>
+                    <div class="comment-area">
+                        <h4>03 Comments</h4>
+                        <div class="single-comment" *ngFor="let review of item.reviews">
+                            <div class="comment-img" *ngFor="let user of getAuthor(review.user)">
+                                <img [src]="user.img" class="img-fluid" [alt]="user.name">
+                            </div>
+                            <div class="comment-info">
+                                <h5 *ngFor="let user of getAuthor(review.user)">{{user.name}}</h5>
+                                <span>{{review.commentdate}}</span>
+                                <p>{{review.comment}}</p>
+                                <a href="#" class="reply-btn"><i class="far fa-share"></i>reply</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="comment-form-area">
+                        <h4>Post Comment</h4>
+                        <div class="comment-form">
+                            <form>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form_group">
+                                            <textarea class="form_control" placeholder="Type your comments...." name="message"></textarea>
+                                            <i class="fal fa-pencil-alt"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form_group">
+                                            <input type="text" class="form_control" placeholder="Type your name...." name="name" required>
+                                            <i class="fal fa-user"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form_group">
+                                            <input type="email" class="form_control" placeholder="Type your email...." name="email" required>
+                                            <i class="fal fa-envelope"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form_group">
+                                            <input type="text" class="form_control" placeholder="Type your website...." name="website" required>
+                                            <i class="fal fa-globe"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form_button">
+                                            <button class="main-btn"><i class="fal fa-comments"></i>Post Comment</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="ovent-sidebar blog-sidebar">
+                    <div class="widget-box about-box mb-40">
+                        <h3 class="widget-title"><span class="line"></span>About Me</h3>
+                        <div class="about-content text-center" *ngFor="let author of getAuthor(item.author)">
+                            <img [src]="author.img" class="img-fluid" [alt]="author.name">
+                            <h5>{{author.name}}</h5>
+                            <p>{{author.shortdesc | slice:0:100}}</p>
+                            <ul>
+                                <li *ngFor="let item of author.social">
+                                    <a routerLink="{{item.url}}">
+                                        <i [class]="item.icon"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <app-blog-sidebar></app-blog-sidebar>
+            </div>
+        </div>
+    </div>
+</section>

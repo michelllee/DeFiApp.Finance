@@ -1,0 +1,50 @@
+<div class="events-filter d-flex flex-wrap justify-content-between row">
+    <div class="col-xl-3 col-md-6" (click)="filterItemsByCategory(category)" *ngFor="let category of categories">
+        <div class="events-btn">
+            <i class="fal fa-stars"></i>
+            <h5 class="title">{{category.title}}</h5>
+        </div>
+    </div>
+</div>
+<div class="filter_grid mt-80">
+    <div class="events-item grid_column" *ngFor="let item of filteredItems">
+        <div class="row">
+            <div class="col-lg-2">
+                <div class="events-info-item" *ngFor="let user of getOrganiser(item.organiser)">
+                    <img [src]="user.img" [alt]="user.name">
+                    <h5 class="title">{{user.name}}</h5>
+                    <span>{{user.post}}</span>
+                    <ul>
+                        <li *ngFor="let beve of item.blocks">
+                            <i [class]="beve.icon"></i> {{beve.title}}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-10">
+                <div class="events-box item-4">
+                    <div class="date">
+                        <ul>
+                            <li><i class="far fa-map-marker-alt"></i> {{item.location}}</li>
+                            <li><i class="fal fa-clock"></i> {{item.timeing}}</li>
+                        </ul>
+                    </div>
+                    <h3 class="title">{{item.title}}</h3>
+                    <p>{{item.shortdesc}}</p>
+                    <div class="btns">
+                        <ul>
+                            <li><a class="main-btn" routerLink="/event"><i class="fal fa-ticket"></i> Buy Ticket</a></li>
+                            <li><a class="main-btn-2 main-btn" routerLink="/event-details/{{item.id}}"><i class="fal fa-angle-right"></i> Learn
+                                    More</a></li>
+                        </ul>
+                    </div>
+                    <div class="events-thumb">
+                        <img [src]="item.eventimg" [alt]="item.title">
+                        <a class="video-popup" href="#"><i
+                                class="fal fa-play"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

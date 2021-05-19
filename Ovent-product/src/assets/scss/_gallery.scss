@@ -1,0 +1,85 @@
+
+/*===========================
+    9.	Gallery css 
+===========================*/
+
+.gallery-area-v1{
+	& .masonry-gallery{
+		& .grid_column{
+			margin-bottom: 30px;
+		}
+		& .gallery-img{
+			@media #{$xs}{
+				& img{
+					width: 100%;
+				}
+			}
+			@media #{$md}{
+				& img{
+					width: 100%;
+				}
+			}
+		}
+	}
+}
+
+.gallery-area-v2{
+	& .container-custom{
+		max-width: 1570px;
+		width: 100%;
+		margin: auto;
+		@media #{$xs}{
+			max-width: 340px;
+		}
+		@media #{$xss}{
+			max-width: 270px;
+		}
+		
+		@media #{$smm}{
+			max-width: 370px;
+		}
+		@media #{$sm}{
+			max-width: 450px;
+		}
+		@media #{$md}{
+			max-width: 700px;
+		}
+		@media #{$lg}{
+			max-width: 990px;
+		}
+		@media #{$laptop}{
+			max-width: 1200px;
+		}
+	}
+	& .gallery-img{
+		margin-bottom: 30px;
+		@media #{$xs}{
+			& img{
+				width: 100%;
+			}
+		}
+		@media #{$md}{
+			& img{
+				width: 100%;
+			}
+		}
+	}
+}
+.gallery-img{
+	position: relative;
+	overflow: hidden;
+	@include transition(.5s);
+	& img{
+		width: 100%;
+		height: 100%;
+		overflow: hidden;
+		@include transition(.7s);
+		@include transform(scale(1)rotate(0deg));
+	}
+	&:hover{
+		& img{
+			opacity: .7;
+			@include transform(scale(1.2)rotate(5deg));
+		}
+	}
+}

@@ -1,0 +1,76 @@
+<section class="shop-page-section pt-120 pb-120">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9">
+                <div class="shop-filter">
+                    <form>
+                        <div class="row align-items-center">
+                            <div class="col-lg-5 col-md-4 col-sm-12">
+                                <div class="shop-text">
+                                    <p>Showing 1–9 of {{shopblock.length}} Results</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-8 col-sm-12">
+                                <div class="row">
+                                    <div class="col-lg-7 col-md-7">
+                                        <div class="form_group">
+                                            <input type="search" class="form_control" placeholder="Search Keywords" name="search">
+                                            <i class="fal fa-envelope"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-5 col-md-5">
+                                        <div class="form_group">
+                                            <select nice-select>
+                                                <option data-display="Short by">Short by</option>
+                                                <option value="1">Bags</option>
+                                                <option value="2">Clothing</option>
+                                                <option value="3">Jewellery</option>
+                                                <option value="4">Men</option>
+                                                <option value="5">Shoes</option>
+                                                <option value="6">Vintage</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12" *ngFor="let item of shopblock | paginate: { itemsPerPage: 9, currentPage: page }">
+                        <div class="product-box mb-30">
+                            <div class="product-img">
+                                <img [src]="item.image[0]" [alt]="item.title">
+                                <div class="product-overlay">
+                                    <div class="product-link">
+                                        <a routerLink="/shop-details/{{item.id}}"><i class="far fa-shopping-cart"></i></a>
+                                        <a href="#"><i class="far fa-heart"></i></a>
+                                        <a href="#"><i class="far fa-eye"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-info">
+                                <h5><a routerLink="/shop-details/{{item.id}}">{{item.title}}</a></h5>
+                                <div class="price">
+                                    <p>
+                                        <span *ngIf="item.discount">${{item.price * (100 - item.discount) / 100 | number:'1.2-2'}}</span>
+                                        <span>${{item.price | number:'1.2-2'}}</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="pagination justify-content-center mt-40">
+                            <pagination-controls (pageChange)="page = $event" responsive="true" previousLabel="<"
+                                nextLabel=">"></pagination-controls>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <app-shop-sidebar></app-shop-sidebar>
+            </div>
+        </div>
+    </div>
+</section>
