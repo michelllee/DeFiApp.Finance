@@ -1,0 +1,45 @@
+<section class="pricing-area-1 pt-120 pb-120 bg_cover" [style.background-image]="'url(assets/images/pricing-bg-1.jpg)'">
+    <div class="ovent-overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="section-title section-title-3 mb-70">
+                    <span class="span">our plan</span>
+                    <h2>Ticket Price</h2>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="pricing-tab">
+                    <ul ngbNav #plansnav="ngbNav" class="nav nav-tabs">
+                        <li ngbNavItem class="nav-item" *ngFor="let item of pricing;let i = index">
+                            <a class="nav-link" ngbNavLink>{{item.title}}</a>
+                            <ng-template ngbNavContent>
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6 col-sm-12" *ngFor="let plan of item.plans">
+                                        <div class="pricing-box">
+                                            <div class="pricing-head">
+                                                <span class="span">{{plan.name}}</span>
+                                                <h2><span>$</span>{{plan.price}}</h2>
+                                                <ul>
+                                                    <li *ngFor="let beve of plan.beverages">
+                                                        <i [class]="beve.icon"></i><span>{{beve.title}}</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="pricing-bottom">
+                                                <p>{{plan.shortdesc}}</p>
+                                                <a routerLink="/contact" class="main-btn"><i class="fal fa-ticket-alt"></i>Buy
+                                                    Ticket</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </ng-template>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div [ngbNavOutlet]="plansnav"></div>
+    </div>
+</section>

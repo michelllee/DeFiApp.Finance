@@ -1,0 +1,32 @@
+<section class="speaker-single-section pt-120 pb-120" *ngFor="let item of speakerdetails">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5">
+                <div class="ovent-img">
+                    <img [src]="item.img" class="img-fluid" [alt]="item.name">
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="ovent-content-box">
+                    <div class="title">
+                        <div class="icon">
+                            <img src="assets/images/icon/icon-8.png" [alt]="item.name">
+                        </div>
+                        <div class="info">
+                            <span>{{item.post}}</span>
+                            <h2>{{item.name}}</h2>
+                        </div>
+                    </div>
+                    <div [innerHtml]="item.htmldesc"></div>
+                    <ul>
+                        <li *ngFor="let item of item.social">
+                            <a [routerLink]="item.url">
+                                <i [class]="item.icon"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

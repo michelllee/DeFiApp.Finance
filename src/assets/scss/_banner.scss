@@ -1,0 +1,370 @@
+
+
+
+/*===========================
+    3.	BANNER css 
+===========================*/
+
+.banner-area-v1{
+	position: relative;
+	z-index: 1;
+	padding: 404px 0 240px;
+	overflow: hidden;
+	@media #{$xs}{
+		padding: 250px 0 240px;
+	}
+	@media #{$md}{
+		padding: 280px 0 240px;
+	}
+	@media #{$lg}{
+		padding: 280px 0 240px;
+	}
+	& .banner-shape{
+		position: absolute;
+		left: 330px;
+		bottom: 350px;
+		z-index: -1;
+		animation: shakeout .40s ease-in alternate infinite;
+		@media #{$xs}{
+			display: none;
+		}
+		@media #{$md}{
+			width: 200px;
+			left: 30px;
+		}
+		@media #{$laptop} {
+			left: 100px;
+		}
+		@media #{$lg} {
+			left: 0;
+		}
+	}
+	&::before{
+		position: absolute;
+		content: '';
+		left: 0;
+		top: 0;
+		height: 100%;
+		width: 100%;
+		background-color: rgba(56, 19, 194,.9);
+		z-index: -2;
+	}
+	& .scroll-btn{
+		position: absolute;
+		bottom: 60px;
+		left: 50%;
+		@include transform(translateX(-50%));
+		& img{
+			animation: scroll .35s ease-in alternate infinite;
+		}
+	}
+	& .banner-content{
+		& span{
+			font-size: 40px;
+			color: $white;
+			@media #{$xs}{
+				font-size: 20px;
+			}
+			@media #{$md}{
+				font-size: 30px;
+				margin-bottom: 10px;
+			}
+			@media #{$lg}{
+				font-size: 20px;
+			}
+		}
+		& h1{
+			font-size: 120px;
+			color: $white;
+			line-height: 120px;
+			padding-top: 10px;
+			padding-bottom: 22px;
+			@media #{$xs}{
+				font-size: 40px;
+				line-height: 50px;
+			}
+			@media #{$md}{
+				font-size: 60px;
+				line-height: 70px;
+				padding: 0 10px;
+				margin-bottom: 30px;
+			}
+			@media #{$lg}{
+				font-size: 90px;
+				line-height: 110px;	
+			}
+		}
+		& ul{
+			& li{
+				display: inline-block;
+				margin: 0 13px;
+				@media #{$xs}{
+					margin-bottom: 20px;
+				}
+			}
+		}
+	}
+	& .banner-location{
+		position: absolute;
+		right: 80px;
+		bottom: 80px;
+		height: 376px;
+		width: 376px;
+		border-radius: 50%;
+		background-image: -moz-linear-gradient( 142deg, rgba(236,57,139,0) 0%, rgb(236,57,139) 100%);
+		background-image: -webkit-linear-gradient( 142deg, rgba(236,57,139,0) 0%, rgb(236,57,139) 100%);
+		background-image: -ms-linear-gradient( 142deg, rgba(236,57,139,0) 0%, rgb(236,57,139) 100%);
+		z-index: -1;
+		animation: shakein .50s ease-in alternate infinite;
+		@media #{$xs}{
+			display: none;
+		}
+		@media #{$md}{
+			display: none;
+		}
+		@media #{$laptop} {
+			right: 30px;
+			bottom: 30px;
+		}
+		@media #{$lg} {
+			right: -80px;
+			bottom: -80px;
+		}
+		& i{
+			position: absolute;
+			right: 60px;
+			top: 45px;
+			font-size: 200px;
+			color: $white;
+			opacity: .06;
+		}
+		& .item{
+			position: absolute;
+			left: 70px;
+			top: 50%;
+			transform: translateY(-50%);
+			& span{
+				font-size: 32px;
+				font-weight: 700;
+				text-decoration: underline;
+				color: $white;
+			}
+			& p{
+				font-size: 18px;
+				font-weight: 700;
+				line-height: 28px;
+				color: $white;
+				padding-top: 12px;
+			}
+		}
+
+	}
+}
+
+@keyframes shakein {
+	0% {
+		transform: translateX(0px);
+	}
+	100% {
+		transform: translateX(5px);
+	}
+}
+
+@keyframes shakeout {
+	0% {
+		transform: translateX(0px);
+		transition: all 1s;
+	}
+	100% {
+		transform: translateX(-5px);
+		transition: all 2s;
+	}
+}
+
+.banner-area-v2{
+	padding: 320px 0 380px;
+	background-size: cover;
+	background-position: center top;
+	@media #{$xs}{
+		padding: 200px 0;
+	}
+	& .banner-content{
+		position: relative;
+		z-index: 2;
+		& span{
+			display: block;
+			margin-bottom: 20px;
+			font-size: 30px;
+			color: $white;
+			@media #{$xs}{
+				font-size: 20px;
+				line-height: 30px;
+			}
+		}
+		& h1{
+			font-size: 90px;
+			line-height: 100px;
+			color: $white;
+			margin-bottom: 35px;
+			@media #{$xs}{
+				font-size: 30px;
+				line-height: 40px;
+			}
+			@media #{$md}{
+				font-size: 40px;
+				line-height: 50px;
+			}
+		}
+		& ul{
+			& li{
+				display: inline-block;
+				margin-right: 30px;
+				@media #{$xs}{
+					margin-bottom: 20px;
+				}
+			}
+		}
+	}
+	& .banner-shape{
+		& img{
+			position: absolute;
+			z-index: 1;
+		}
+		& .shape-1{
+			top: 30%;
+			left: 15%;
+			animation: shakeout .65s ease-in alternate infinite;
+			@media #{$xs}{
+				left: 0%;
+				width: 100px;
+			}
+			@media #{$md}{
+				left: 0%;
+			}
+			@media #{$lg}{
+				left: 0%;
+			}
+			@media #{$laptop}{
+				left: 5%;
+			}
+		}
+		& .shape-2{
+			bottom: 10%;
+			right: 30%;
+			animation: shakeout .80s ease-in alternate infinite;
+			@media #{$lg}{
+				right: 10%;
+				bottom: 0%;
+			}
+			@media #{$laptop}{
+				bottom: 5%;
+			}
+			@media #{$xs}{
+				right: 0%;
+				width: 100px;
+				bottom: 40%;
+			}
+		}
+	}
+}
+
+.banner-area-v3{
+	position: relative;
+	background: #000f3a;
+	padding: 320px 0 230px;
+	overflow: hidden;
+	@media #{$lg}{
+		padding: 250px 0 230px;
+	}
+	@media #{$xs}{
+		padding: 250px 0 150px;
+	}
+	&:before{
+		position: absolute;
+		content: '';
+		top: -100px;
+		left: -100px;
+		width: 550px;
+		height: 550px;
+		background: url(../images/shape/shape-9.png) no-repeat;
+		z-index: 1;
+		animation: zoomin 1s ease-in alternate infinite;
+	}
+	&:after{
+		position: absolute;
+		top: 0;
+		right: 0;
+		content: '';
+		width: 50%;
+		height: 100%;
+		background: url(../images/banner-bg-3.jpg) no-repeat;
+		background-position: center;
+		background-size: cover;
+		z-index: 1;
+		@media #{$xs}{
+			display: none;
+		}
+	}
+	& .banner-content{
+		position: relative;
+		z-index: 2;
+		span{
+			font-size: 30px;
+			color: #fff;
+			@media #{$xs}{
+				font-size: 20px;
+			}
+		}
+		h1{
+			font-size: 140px;
+			color: #fff;
+			@media #{$lg}{
+				font-size: 60px;
+				line-height: 70px;
+				margin-bottom: 20px;
+			}
+			@media #{$md}{
+				font-size: 50px;
+				line-height: 60px;
+				margin-bottom: 20px;
+			}
+			@media #{$xs}{
+				font-size: 30px;
+				line-height: 40px;
+				margin-bottom: 20px;
+			}
+		}
+		& ul{
+			& li{
+				display: inline-block;
+				&:last-child{
+					margin-left: 25px;
+				}
+				@media #{$xs}{
+					&:last-child{
+						margin-left: 0;
+						margin-top: 20px;
+					}
+				}
+				@media #{$smm}{
+					&:last-child{
+						margin-left: 10px;
+						margin-top: 20px;
+					}
+				}
+			}
+		}
+	}
+}
+
+
+
+
+@keyframes scroll {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(10px);
+  }
+}

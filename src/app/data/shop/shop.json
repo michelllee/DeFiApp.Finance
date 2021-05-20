@@ -1,0 +1,1031 @@
+[
+    {
+        "id": 1,
+        "title": "Golden Chair",
+        "image": [
+            "assets/images/shop-1.jpg",
+            "assets/images/shop-2.jpg",
+            "assets/images/shop-3.jpg",
+            "assets/images/shop-4.jpg"
+        ],
+        "price": 45.99,
+        "discount": 10,
+        "rating": 4,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[1,2,3],
+        "tags":[1,2,3],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Blue Table",
+        "image": [
+            "assets/images/shop-2.jpg",
+            "assets/images/shop-3.jpg",
+            "assets/images/shop-4.jpg",
+            "assets/images/shop-5.jpg"
+        ],
+        "price": 46.99,
+        "discount": 11,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[4,5,6],
+        "tags":[4,5,6],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Amazing Charge Light",
+        "image": [
+            "assets/images/shop-3.jpg",
+            "assets/images/shop-4.jpg",
+            "assets/images/shop-5.jpg",
+            "assets/images/shop-6.jpg"
+        ],
+        "price": 47.99,
+        "discount": 12,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[7,1,2],
+        "tags":[7,8,9],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Minimal Chair",
+        "image": [
+            "assets/images/shop-4.jpg",
+            "assets/images/shop-5.jpg",
+            "assets/images/shop-6.jpg",
+            "assets/images/shop-7.jpg"
+        ],
+        "price": 48.99,
+        "discount": 13,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[3,4,5],
+        "tags":[10,11,12],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Light Bulb",
+        "image": [
+            "assets/images/shop-5.jpg",
+            "assets/images/shop-6.jpg",
+            "assets/images/shop-7.jpg",
+            "assets/images/shop-8.jpg"
+        ],
+        "price": 49.99,
+        "discount": 14,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[6,7,1],
+        "tags":[1,2,3],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Wood Furniture",
+        "image": [
+            "assets/images/shop-6.jpg",
+            "assets/images/shop-7.jpg",
+            "assets/images/shop-8.jpg",
+            "assets/images/shop-9.jpg"
+        ],
+        "price": 50.99,
+        "discount": 15,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[2,3,4],
+        "tags":[4,5,6],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Wood Chair",
+        "image": [
+            "assets/images/shop-7.jpg",
+            "assets/images/shop-8.jpg",
+            "assets/images/shop-9.jpg",
+            "assets/images/shop-10.jpg"
+        ],
+        "price": 51.99,
+        "discount": 16,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[5,6,7],
+        "tags":[7,8,9],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Black Mouse Pad",
+        "image": [
+            "assets/images/shop-8.jpg",
+            "assets/images/shop-9.jpg",
+            "assets/images/shop-10.jpg",
+            "assets/images/shop-11.jpg"
+        ],
+        "price": 52.99,
+        "discount": 17,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[1,2,3],
+        "tags":[10,11,12],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Rolling Black Paper",
+        "image": [
+            "assets/images/shop-9.jpg",
+            "assets/images/shop-10.jpg",
+            "assets/images/shop-11.jpg",
+            "assets/images/shop-12.jpg"
+        ],
+        "price": 53.99,
+        "discount": "",
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category":[4,5,6],
+        "tags":[1,2,3],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Minimal Black Chair",
+        "image": [
+            "assets/images/shop-10.jpg",
+            "assets/images/shop-11.jpg",
+            "assets/images/shop-12.jpg",
+            "assets/images/shop-1.jpg"
+        ],
+        "price": 54.99,
+        "discount": "",
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category": [
+            3,
+            4
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Ciramic Round Table",
+        "image": [
+            "assets/images/shop-11.jpg",
+            "assets/images/shop-12.jpg",
+            "assets/images/shop-1.jpg",
+            "assets/images/shop-2.jpg"
+        ],
+        "price": 55.99,
+        "discount": 14,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category": [
+            5,
+            6
+        ],
+        "tags": [
+            7,
+            8,
+            9
+        ],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Kedara Black Mantis",
+        "image": [
+            "assets/images/shop-12.jpg",
+            "assets/images/shop-1.jpg",
+            "assets/images/shop-2.jpg",
+            "assets/images/shop-3.jpg"
+        ],
+        "price": 59.99,
+        "discount": 22,
+        "rating": 5,
+        "brand": "Limonda",
+        "productcode": "Likaoli D12",
+        "reward": 100,
+        "stock": true,
+        "category": [
+            7,
+            1
+        ],
+        "tags": [
+            10,
+            11,
+            12
+        ],
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupida...",
+        "htmldesc":"<p class='pb-20'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncove many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like) Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>",
+        "specifications":[
+            {
+                "title":"Brand",
+                "text":"Apple 18"
+            },
+            {
+                "title":"Item HeightItem Width",
+                "text":"Millimeters 31.4"
+            },
+            {
+                "title":"Screen Size",
+                "text":"Centimeters 3 Inches"
+            },
+            {
+                "title":"Item Weight",
+                "text":"1.6 Kg"
+            },
+            {
+                "title":"Product Dimensions",
+                "text":"21.9 x 31.4 x 1.8 cm"
+            },
+            {
+                "title":"Item model number",
+                "text":"MF841HN/A"
+            },
+            {
+                "title":"Processor Brand",
+                "text":"Intel"
+            },
+            {
+                "title":"Processor Type",
+                "text":"Core i5"
+            },
+            {
+                "title":"Processor Speed",
+                "text":"2.9 GHz"
+            },
+            {
+                "title":"RAM Size",
+                "text":"8 GB"
+            },
+            {
+                "title":"Hard Drive Size",
+                "text":"512 GB"
+            },
+            {
+                "title":"Hard Disk Technology",
+                "text":"Solid State"
+            },
+            {
+                "title":"Graphics Coprocessor",
+                "text":"Drive Intel Integrated Graphics"
+            }
+        ],
+        "reviews":[
+            {
+                "id":1,
+                "user":[1],
+                "rating":4,
+                "commentdate":"February 24, 2020",
+                "comment":"Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    }
+]

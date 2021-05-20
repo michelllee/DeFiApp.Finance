@@ -1,0 +1,171 @@
+
+
+
+/*===========================
+    7.	COUNTER css 
+===========================*/
+.counter-area{
+	position: relative;
+	z-index: 2;
+	& .counter-box{
+		position: relative;
+		z-index: 1;
+		& .counter-item{
+			position: relative;
+		    width: 230px;
+    		height: 230px;
+    		display: flex;
+		    align-items: center;
+		    justify-content: center;
+		    margin: 0 auto;
+		    font-weight: 600;
+		    font-size: 32px;
+		    @media #{$xs}{
+		    	margin-bottom: 60px;
+		    }
+		    @media #{$md}{
+		    	margin-bottom: 60px;
+		    }
+		    & .chart_1 {
+		    	h2{
+		    		font-size: 50px;
+		    		color: #fff;
+		    	}
+		    	& h5{
+		    		font-weight: normal;
+		    		color: #fff;
+		    		font-size: 14px;
+		    	}
+		    	& canvas{
+					position: absolute;
+				    left: 0;
+				    top: 0;
+				}
+		    }
+		}
+	}
+}
+
+.counter-area-1,.counter-area-4{
+	position: relative;
+	overflow: hidden;
+	.shape-box{
+		@media #{$xs}{
+			display: none;
+		}
+		@media #{$md}{
+			display: none;
+		}
+		& img{
+			z-index: 1;
+		}
+		& .shape-1{
+		    position: absolute;
+		    top: -60px;
+		    left: -50px;
+		    animation: zoomin 1s ease-in alternate infinite;
+		}
+		& .shape-2{
+		    position: absolute;
+		    bottom: 90px;
+		    right: -50px;
+		    animation: zoomin 1.5s ease-in alternate infinite;
+		}
+	}
+	& .ovent-overlay{
+		background: #3813c2;
+		opacity: .90;
+	}
+}
+@keyframes zoomin {
+	0% {
+		transform: scale(1);
+	}
+	100% {
+		transform: scale(1.1);
+	}
+}
+.counter-area-1{
+	& .counter-box{
+		padding-top: 90px;
+		padding-bottom: 200px;
+		position: relative;
+		&::before{
+			position: absolute;
+			content: '';
+			left: 50%;
+			bottom: 0;
+			height: 80px;
+			width: 100%;
+			background: $white;
+			transform: translateX(-50%);
+		}
+	}
+}
+
+.counter-area-2{
+	background: #000637 url(../images/counter-bg-2.png) no-repeat;
+	background-size: cover;
+    background-position: center;
+    .section-title{
+    	& h2{
+    		color: $white;
+    	}
+    }
+    & .shape_img{
+    	position: absolute;
+    	top: 20px;
+    	left: 15%;
+    	width: 175px;
+  		height: 175px;
+		background-image: -moz-linear-gradient( 137deg, rgba(0,6,55,0) 0%, rgb(236,57,139) 100%);
+		background-image: -webkit-linear-gradient( 137deg, rgba(0,6,55,0) 0%, rgb(236,57,139) 100%);
+		background-image: -ms-linear-gradient( 137deg, rgba(0,6,55,0) 0%, rgb(236,57,139) 100%);
+		border-radius: 50%;
+		@media #{$laptop}{
+			left: 0%;
+		}
+		@media #{$xs}{
+			display: none;
+		}
+    }
+}
+
+.counter-area-3{
+	& .section-title-3{
+		& span{
+			color: #00f6ff;
+		}
+		& h2{
+			color: #fff;
+		}
+	}
+	& .counter-box{
+		@media #{$xs}{
+			margin-top: 60px;
+		}
+		@media #{$md}{
+			margin-top: 60px;
+		}
+		& .counter-item{
+		    width: 150px;
+    		height: 150px;
+    		& .chart_2 {
+		    	h2{
+		    		font-size: 50px;
+		    		color: #fff;
+		    	}
+		    	& h5{
+		    		font-weight: normal;
+		    		color: #fff;
+		    		font-size: 14px;
+		    	}
+		    	& canvas{
+					position: absolute;
+				    left: 0;
+				    top: 0;
+				}
+		    }
+		}
+	}
+}

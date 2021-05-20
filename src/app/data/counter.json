@@ -1,0 +1,26 @@
+[
+    {
+        "value": 35,
+        "percent": 95,
+        "title": "Speakers",
+        "color": "#ff62a5"
+    },
+    {
+        "value": 999,
+        "percent": 75,
+        "title": "Audience",
+        "color": "#1affec"
+    },
+    {
+        "value": 10,
+        "percent": 85,
+        "title": "Awards",
+        "color": "#ffd862"
+    },
+    {
+        "value": 17,
+        "percent": 50,
+        "title": "Country",
+        "color": "#62ff69"
+    }
+]

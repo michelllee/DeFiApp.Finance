@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Accessories"
+    },
+    {
+        "id":2,
+        "title":"Clothing"
+    },
+    {
+        "id":3,
+        "title":"Decor"
+    },
+    {
+        "id":4,
+        "title":"Hoodies"
+    },
+    {
+        "id":5,
+        "title":"Music"
+    },
+    {
+        "id":6,
+        "title":"T-shirts"
+    },
+    {
+        "id":7,
+        "title":"Uncategorized"
+    }
+]

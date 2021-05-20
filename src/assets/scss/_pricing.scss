@@ -1,0 +1,285 @@
+
+/*===========================
+    10.	Pricing css 
+===========================*/
+.pricing-area-1{
+	position: relative;
+	& .ovent-overlay{
+		background-image: -moz-linear-gradient( 145deg, rgb(255,94,147) 0%, rgb(138,0,255) 100%);
+		background-image: -webkit-linear-gradient( 145deg, rgb(255,94,147) 0%, rgb(138,0,255) 100%);
+		background-image: -ms-linear-gradient( 145deg, rgb(255,94,147) 0%, rgb(138,0,255) 100%);
+		opacity: .40;
+	}
+	& .section-title-3{
+		span,h2{
+			color: $white;
+		}
+	}
+	& .pricing-tab{
+		& .nav-tabs{
+			padding: 6px;
+			max-width: 385px;
+			width: 100%;
+			float: right;
+			border: 4px solid rgba(255, 255, 255, .20);
+			@media #{$xs}{
+				float: left;
+				margin-bottom: 60px;
+			}
+			@media #{$md}{
+				float: left;
+				margin-bottom: 60px;
+			}
+			& .nav-link{
+				padding: 18px 44px;
+				border-radius: 0;
+				font-size: 16px;
+				text-transform: uppercase;
+				font-weight: bold;
+				background: transparent;
+				color: $white;
+				border: none;
+				@include transition(0.3s);
+				@media #{$xs}{
+					padding: 18px 31px;
+				}
+				@media #{$xs}{
+					padding: 18px 40px;
+				}
+				@media #{$sm}{
+					padding: 18px 45px;
+				}
+				&.active{
+					background: $theme-color;
+					color: $white;
+				}
+			}
+		}
+	}
+	& .pricing-box{
+		background: $white;
+		text-align: center;
+		padding: 80px 55px;
+		@media #{$xs}{
+			margin-bottom: 60px;
+		}
+		@media #{$md}{
+			margin-bottom: 60px;
+		}
+		& .pricing-head{
+			padding-bottom: 40px;
+			border-bottom: 1px solid  rgb(235, 244, 255);
+			& .span{
+				font-size: 14px;
+				letter-spacing: 2px;
+				color: $theme-color;
+				text-transform: uppercase;
+			}
+			& h2{
+				margin-bottom: 30px;
+				font-size: 90px;
+				color: $heading-color;
+				& span{
+					font-size: 30px;
+				}
+			}
+			& ul{
+				& li{
+					display: inline-block;
+					&:last-child{
+						&:after{
+							display: none;
+						}
+					}
+					& span{
+						color: #497898;
+					}
+					&:after{
+						margin-left: 10px;
+						margin-right: 10px;
+						display: inline-block;
+						content: '|';
+						color: #497898;
+					}
+					& i{
+						margin-right: 5px;
+					}
+				}
+			}
+		}
+		.pricing-bottom{
+			padding-top: 30px;
+			& p{
+				padding-bottom: 30px;
+			}
+		}
+	}
+}
+
+.pricing-area-2{
+	background: #000637;
+	& .section-title{
+		h2{
+			color: #fff;
+		}
+	}
+	& .pricing-box{
+		position: relative;
+		text-align: center;
+		padding: 70px 60px;
+		z-index: 1;
+		@media #{$xs}{
+			padding: 70px 30px;
+		}
+		& .pricing-head{
+			.span{
+				margin-bottom: 60px;
+				color: $white;
+				font-weight: bold;
+			}
+			h2{
+				color: $white;
+				font-size: 100px;
+				& span{
+					font-size: 16px;
+				}
+			}
+			.number{
+				font-size: 400px;
+			    font-weight: 700;
+			    font-family: $montserrat;
+			    color: rgba(255,255,255,.06);
+			    z-index: -1;
+			    position: absolute;
+			    top: 50%;
+			    left: 50%;
+			    @include transform(translate(-50%,-50%));
+			    @media #{$xs}{
+			    	font-size: 300px;
+			    }
+			}
+			ul{
+				margin-bottom: 60px;
+				li{
+					display: inline-block;
+					color: $white;
+					&:after{
+						display: inline-block;
+						content: '|';
+						color: $white;
+						margin-left: 5px;
+						margin-right: 2px;
+					}
+					&:last-child{
+						&:after{
+							display: none;
+						}
+					}
+					& i{
+						margin-right: 5px;
+					}
+				}
+			}
+		}
+		& .pricing-bottom{
+			.main-btn{
+				& i{
+					margin-right: 10px;
+				}
+				border-color: transparent;
+			}
+		}
+		&.box-1{
+			background-image: -moz-linear-gradient( -45deg, rgb(168,227,255) 0%, rgb(0,132,255) 100%);
+			background-image: -webkit-linear-gradient( -45deg, rgb(168,227,255) 0%, rgb(0,132,255) 100%);
+			background-image: -ms-linear-gradient( -45deg, rgb(168,227,255) 0%, rgb(0,132,255) 100%);
+			& .pricing-bottom{
+				.main-btn{
+					background: #0063b9;
+				}
+			}
+		}
+		&.box-2{
+			margin-top: -39px;
+			background-image: -moz-linear-gradient( -45deg, rgb(246,145,255) 0%, rgb(138,0,255) 100%);
+			background-image: -webkit-linear-gradient( -45deg, rgb(246,145,255) 0%, rgb(138,0,255) 100%);
+			background-image: -ms-linear-gradient( -45deg, rgb(246,145,255) 0%, rgb(138,0,255) 100%);
+			& .pricing-head{
+				.span{
+					margin-bottom: 100px;
+				}
+				ul{
+					margin-bottom: 100px;
+				}
+			}
+			& .pricing-bottom{
+				.main-btn{
+					background: #530092;
+				}
+			}
+		}
+		&.box-3{
+			background-image: -moz-linear-gradient( -45deg, rgb(255,161,212) 0%, rgb(255,0,78) 100%);
+			background-image: -webkit-linear-gradient( -45deg, rgb(255,161,212) 0%, rgb(255,0,78) 100%);
+			background-image: -ms-linear-gradient( -45deg, rgb(255,161,212) 0%, rgb(255,0,78) 100%);
+			& .pricing-bottom{
+				.main-btn{
+					background: #530092;
+				}
+			}
+		}
+	}
+}
+
+.ovent-faq-section{
+	& .faq_wrapper{
+		& .card{
+			background: transparent;
+			border-radius: 0;
+			border-color: #d7edff;
+			& .card-header{
+				position: relative;
+				border-bottom: 0;
+				border-radius: 0;
+				background: transparent;
+				padding: 20px 50px;
+				font-size: 20px;
+				color: $heading-color;
+				font-weight: bold;
+				font-family: $montserrat;
+				@media #{$xss}{
+					padding: 20px;
+				}
+				& .toggle_btn{
+					float: right;
+					&:after{
+						content: '\f061';
+						font-family: 'Font Awesome 5 Pro';
+						font-weight: 600;
+						display: inline-block;
+						font-size: 14px;
+						color: #497898;
+						transition: all 0.25s linear;
+						@media #{$xs}{
+							display: none;
+						}
+					}
+				}
+			}
+			& .card-body{
+				padding: 0 50px 20px;
+				@media #{$xss}{
+					padding: 0 20px 20px;
+				}
+				& p{
+					font-size: 14px;
+					color: #497898;
+				}
+			}
+		}
+	}
+	.faq_wrapper .card .card-header[aria-expanded="true"] .toggle_btn::after{
+		transform: rotate(0deg);
+	    content: "\f063";
+	}
+}

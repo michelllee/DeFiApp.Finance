@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "img": "assets/images/team-1.png",
+        "name": "Rosalina William",
+        "post": "UX DESIGN",
+        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "assets/images/team-2.png",
+        "name": "Catherine Crain",
+        "post": "CEO",
+        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "assets/images/team-3.png",
+        "name": "David Hald",
+        "post": "HEAD OF TECHNOLOGY",
+        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "assets/images/team-4.png",
+        "name": "Sheila Monta",
+        "post": "HEAD OF FINANCE",
+        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "assets/images/team-5.png",
+        "name": "Rosalina William",
+        "post": "UX DESIGN",
+        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "assets/images/team-6.png",
+        "name": "Catherine Crain",
+        "post": "CEO",
+        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "img": "assets/images/team-7.png",
+        "name": "David Hald",
+        "post": "HEAD OF TECHNOLOGY",
+        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "assets/images/team-8.png",
+        "name": "Sheila Monta",
+        "post": "HEAD OF FINANCE",
+        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    }
+]

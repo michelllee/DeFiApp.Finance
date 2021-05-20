@@ -1,0 +1,42 @@
+<section class="blog-standard-section pt-120 pb-120">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="blog-item mb-40" *ngFor="let item of blogpost | paginate: { itemsPerPage: 4, currentPage: page }">
+                    <div class="blog-img">
+                        <img [src]="item.img" class="img-fluid w-100" [alt]="item.title">
+                    </div>
+                    <div class="blog-content">
+                        <a routerLink="/blog/cat/{{cat.id}}" *ngFor="let cat of getCategory(item.category)" class="cat mr-1">{{cat.title}}</a>
+                        <h3><a routerLink="/blog-details/{{item.id}}">{{item.title}}</a></h3>
+                        <ul class="post-meta">
+                            <li><i class="far fa-eye"></i>{{item.views}} Views</li>
+                            <li><a href="#"><i class="far fa-eye"></i>{{item.reviews.length}} Comments</a></li>
+                            <li><i class="far fa-calendar-alt"></i>{{item.postdate}}</li>
+                        </ul>
+                        <p>{{item.shortdesc}}</p>
+                        <div class="post-bottom">
+                            <div class="author-thumb" *ngFor="let author of getAuthor(item.author)">
+                                <a routerLink="/blog/author/{{author.id}}">
+                                    <img [src]="author.img" [alt]="author.name">
+                                </a>
+                                <span>by <a routerLink="/blog/author/{{author.id}}">{{author.name}}</a></span>
+                            </div>
+                            <div class="read-more">
+                                <a routerLink="/blog-details/{{item.id}}" class="btn-link"><i class="far fa-arrow-right"></i>Read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pagination justify-content-center mt-30">
+                    <pagination-controls (pageChange)="page = $event" responsive="true"
+                    previousLabel="<"
+                    nextLabel=">"></pagination-controls>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <app-blog-sidebar></app-blog-sidebar>
+            </div>
+        </div>
+    </div>
+</section>

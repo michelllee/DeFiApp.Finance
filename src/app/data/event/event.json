@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "title": "UX Design Trend Party 2021",
+        "location": "Waterfront Hotel, London",
+        "timeing": "9.30 - 10.30 AM",
+        "eventdate": "10th March 2021",
+        "eventimg": "assets/images/events-thumb.png",
+        "eventbig": "assets/images/event-single-1.jpg",
+        "shortdesc": "In order to save time you have to break down the content strategy for the event or conference you are planning step by step. Creating this process from scratch will take the longest amount of time to build, but once you have content production foundation.",
+        "htmldesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error.</p><p>Sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
+        "blocks": [
+            {
+                "icon": "fal fa-coffee",
+                "title": "Coffee"
+            },
+            {
+                "icon": "fal fa-video",
+                "title": "Video"
+            },
+            {
+                "icon": "fal fa-award",
+                "title": "Awards"
+            },
+            {
+                "icon": "fal fa-gift",
+                "title": "Gifts"
+            }
+        ],
+        "category": [
+            1,
+            4
+        ],
+        "organiser": [
+            1
+        ],
+        "aboutevent":[
+            {
+                "icon":"fal fa-chair",
+                "title":"1200 Persons Seat"
+            },
+            {
+                "icon":"fal fa-coffee",
+                "title":"Drinks"
+            },
+            {
+                "icon":"fal fa-newspaper",
+                "title":"News"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "UX Design Trend Party 2021",
+        "location": "Waterfront Hotel, London",
+        "timeing": "9.30 - 10.30 AM",
+        "eventdate": "11th March 2021",
+        "eventimg": "assets/images/events-thumb-2.png",
+        "eventbig": "assets/images/event-single-1.jpg",
+        "shortdesc": "In order to save time you have to break down the content strategy for the event or conference you are planning step by step. Creating this process from scratch will take the longest amount of time to build, but once you have content production foundation.",
+        "htmldesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error.</p><p>Sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
+        "blocks": [
+            {
+                "icon": "fal fa-coffee",
+                "title": "Coffee"
+            },
+            {
+                "icon": "fal fa-video",
+                "title": "Video"
+            },
+            {
+                "icon": "fal fa-award",
+                "title": "Awards"
+            },
+            {
+                "icon": "fal fa-gift",
+                "title": "Gifts"
+            }
+        ],
+        "category": [
+            2
+        ],
+        "organiser": [
+            2
+        ],
+        "aboutevent":[
+            {
+                "icon":"fal fa-chair",
+                "title":"1200 Persons Seat"
+            },
+            {
+                "icon":"fal fa-coffee",
+                "title":"Drinks"
+            },
+            {
+                "icon":"fal fa-newspaper",
+                "title":"News"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "UX Design Trend Party 2021",
+        "location": "Waterfront Hotel, London",
+        "timeing": "9.30 - 10.30 AM",
+        "eventdate": "12th March 2021",
+        "eventimg": "assets/images/events-thumb-3.png",
+        "eventbig": "assets/images/event-single-1.jpg",
+        "shortdesc": "In order to save time you have to break down the content strategy for the event or conference you are planning step by step. Creating this process from scratch will take the longest amount of time to build, but once you have content production foundation.",
+        "htmldesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error.</p><p>Sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
+        "blocks": [
+            {
+                "icon": "fal fa-coffee",
+                "title": "Coffee"
+            },
+            {
+                "icon": "fal fa-video",
+                "title": "Video"
+            },
+            {
+                "icon": "fal fa-award",
+                "title": "Awards"
+            },
+            {
+                "icon": "fal fa-gift",
+                "title": "Gifts"
+            }
+        ],
+        "category": [
+            3
+        ],
+        "organiser": [
+            3
+        ],
+        "aboutevent":[
+            {
+                "icon":"fal fa-chair",
+                "title":"1200 Persons Seat"
+            },
+            {
+                "icon":"fal fa-coffee",
+                "title":"Drinks"
+            },
+            {
+                "icon":"fal fa-newspaper",
+                "title":"News"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "UX Design Trend Party 2021",
+        "location": "Waterfront Hotel, London",
+        "timeing": "9.30 - 10.30 AM",
+        "eventdate": "13th March 2021",
+        "eventimg": "assets/images/events-thumb-4.png",
+        "eventbig": "assets/images/event-single-1.jpg",
+        "shortdesc": "In order to save time you have to break down the content strategy for the event or conference you are planning step by step. Creating this process from scratch will take the longest amount of time to build, but once you have content production foundation.",
+        "htmldesc": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error.</p><p>Sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>",
+        "blocks": [
+            {
+                "icon": "fal fa-coffee",
+                "title": "Coffee"
+            },
+            {
+                "icon": "fal fa-video",
+                "title": "Video"
+            },
+            {
+                "icon": "fal fa-award",
+                "title": "Awards"
+            },
+            {
+                "icon": "fal fa-gift",
+                "title": "Gifts"
+            }
+        ],
+        "category": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "organiser": [
+            4
+        ],
+        "aboutevent":[
+            {
+                "icon":"fal fa-chair",
+                "title":"1200 Persons Seat"
+            },
+            {
+                "icon":"fal fa-coffee",
+                "title":"Drinks"
+            },
+            {
+                "icon":"fal fa-newspaper",
+                "title":"News"
+            }
+        ]
+    }
+]

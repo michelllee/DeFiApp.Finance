@@ -1,0 +1,69 @@
+<app-header></app-header>
+<app-banner></app-banner>
+<app-about></app-about>
+<app-video></app-video>
+<section class="team-area team-area-v1 bg_cover" [style.background-image]="'url(assets/images/pattern-bg.jpg)'">
+    <app-team></app-team>
+    <div class="team-main-item pt-120">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="section-title section-title-1 text-center">
+                        <span class="span">Speakers</span>
+                        <h2>The design of tall building is increasingly</h2>
+                    </div>
+                </div>
+            </div>
+            <app-speaker></app-speaker>
+        </div>
+    </div>
+</section>
+<section class="counter-area counter-area-1 bg_cover" [style.background-image]="'url(assets/images/counter-bg.jpg)'">
+    <div class="shape-box">
+        <img src="assets/images/shape/shape-7.png" class="shape-1" alt="">
+        <img src="assets/images/shape/shape-7.png" class="shape-2" alt="">
+    </div>
+    <div class="ovent-overlay"></div>
+    <div class="container">
+        <div class="counter-box">
+            <app-counter></app-counter>
+        </div>
+    </div>
+</section>
+<section class="events-area pt-40">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="section-title section-title-1 text-center">
+                    <span class="span">Events</span>
+                    <h2>Dedicated to building Doom Schedule! </h2>
+                </div>
+            </div>
+        </div>
+        <app-filter-event></app-filter-event>
+    </div>
+</section>
+<section class="gallery-blog-area mb-120" id="gallery-blog">
+    <div class="container-fluid p-0">
+        <app-masonry-blog></app-masonry-blog>
+    </div>
+</section>
+<section class="sponsors-area sponsors-area-1 pb-40">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section-title section-title-1 text-center mb-80">
+                    <span class="span">Sponsors</span>
+                    <h2>Our Sponsors</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <app-sponsers></app-sponsers>
+            </div>
+        </div>
+    </div>
+</section>
+<app-contact></app-contact>
+<app-footer [layout]="classname" [logo]="ftlogo" [bg]="ftbg"></app-footer>

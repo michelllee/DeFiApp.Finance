@@ -1,0 +1,15 @@
+<div class="team-sub">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4" *ngFor="let item of teamblock;let i = index">
+                <div class="team-sub-item text-center item-{{1+i}}">
+                    <div class="icon">
+                        <img [src]="item.icon" [alt]="item.title">
+                    </div>
+                    <h3 class="title">{{item.title}}</h3>
+                    <p>{{item.text}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

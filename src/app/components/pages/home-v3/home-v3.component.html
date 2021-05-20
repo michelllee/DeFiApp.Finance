@@ -1,0 +1,83 @@
+<app-header-three></app-header-three>
+<app-banner></app-banner>
+<section class="counter-area counter-area-3 bg_cover pt-120 pb-120"
+    [style.background-image]="'url(assets/images/counter-bg-3.jpg)'">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-4">
+                <div class="section-title section-title-3">
+                    <span class="span">Hurry up!</span>
+                    <h2>15% Less For Early Birds.</h2>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="counter-box">
+                    <app-counter></app-counter>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<app-about></app-about>
+<app-video></app-video>
+<app-contact></app-contact>
+<section class="events-area pt-110 pb-100">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="section-title section-title-3 text-center mb-40">
+                    <span class="span">Join & Enjoy</span>
+                    <h2>Our Events</h2>
+                </div>
+            </div>
+        </div>
+        <app-filter-event></app-filter-event>
+    </div>
+</section>
+<section class="team-area team-area-v1 team-area-v4 light-bg pb-120">
+    <div class="team-main-item pt-120">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="section-title section-title-3 text-center">
+                        <span class="span">angels</span>
+                        <h2>Our Speakers</h2>
+                    </div>
+                </div>
+            </div>
+            <app-speaker></app-speaker>
+        </div>
+    </div>
+</section>
+<app-pricing></app-pricing>
+<app-gallery></app-gallery>
+<section class="sponsors-area sponsors-area-1 sponsors-area-3 pt-120 pb-120">
+    <svg id="curve-2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <path fill-rule="evenodd" fill="rgb(255, 236, 246)"
+            d="M1920.000,405.000 L0.000,405.000 L0.000,-0.000 C0.000,-0.000 131.684,241.345 489.000,270.000 C846.316,298.654 1079.576,19.147 1505.000,190.000 C1930.423,360.853 1922.085,198.605 1920.000,405.000 Z" />
+    </svg>
+    <svg id="curve-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <path fill-rule="evenodd" fill="rgb(255, 223, 239)"
+            d="M0.406,405.000 L1920.000,405.000 L1920.000,-0.000 C1920.000,-0.000 1788.344,241.345 1431.103,270.000 C1073.863,298.654 840.652,19.147 415.318,190.000 C-10.015,360.853 -1.678,198.605 0.406,405.000 Z" />
+    </svg>
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section-title section-title-3 text-center mb-80">
+                    <span class="span">Sponsors</span>
+                    <h2>Our Sponsors</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <app-sponsers></app-sponsers>
+            </div>
+            <div class="col-lg-12 text-center">
+                <a routerLink="/sponsors" class="main-btn"><i class="fal fa-users"></i> Become Sponsors</a>
+            </div>
+        </div>
+    </div>
+</section>
+<app-blogpost></app-blogpost>
+<app-footer [layout]="classname" [logo]="ftlogo" [bg]="ftbg"></app-footer>

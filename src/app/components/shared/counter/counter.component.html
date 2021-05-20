@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-lg-3" *ngFor="let item of counter">
+        <div class="counter-item text-center mt-30">
+            <div class="chart_1" data-barcolor="62ff69" data-percent="50">
+                <circle-progress [percent]="item.percent" [showInnerStroke]="true" [showTitle]="false"
+                    [showUnits]="false" [showSubtitle]="false" [radius]="120" [outerStrokeWidth]="10"
+                    [innerStrokeWidth]="10" [innerStrokeColor]="'#ffffff24'" [space]="'-10'"
+                    [outerStrokeColor]="item.color" [outerStrokeLinecap]="'butt'" [responsive]="true" [animation]="true"
+                    [animationDuration]="2000"></circle-progress>
+                <div>
+                    <h2><span class="counter">{{item.value}}</span>+</h2>
+                    <h5>{{item.title}}</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

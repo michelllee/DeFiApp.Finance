@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "title":"Design"
+    },
+    {
+        "id":2,
+        "title":"Development"
+    },
+    {
+        "id":3,
+        "title":"Seo"
+    },
+    {
+        "id":4,
+        "title":"Digital Marketing"
+    }
+]
