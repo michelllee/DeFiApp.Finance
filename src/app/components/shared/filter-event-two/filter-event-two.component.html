@@ -1,4 +1,4 @@
-<section class="events-area-v2 bg_cover pt-120 pb-80" [style.background-image]="'url(assets/images/event-bg-2.jpg)'">
+<section class="events-area-v2 bg_cover pt-120 pb-80" [style.background-image]="'url(assets/images/event-bg-de.jpg)'">
     <div class="ovent-overlay"></div>
     <div class="shape-img">
         <img src="assets/images/shape/shape-4.png" class="img-1" alt="">
@@ -19,8 +19,8 @@
                     <button class="event-btn active_btn" (click)="reset()">All</button>
                     <button class="event-btn" (click)="filterItemsByCategory(category)" *ngFor="let category of categories" >{{category.title}}</button>
                 </div>
-            </div>    
-        </div>        
+            </div>
+        </div>
         <div class="filter_grid row">
             <div class="col-lg-12 grid_column" *ngFor="let item of filteredItems">
                 <div class="event-item">
@@ -37,7 +37,7 @@
                                         <h3><a routerLink="/event-details/{{item.id}}">{{item.title}}</a></h3>
                                         <div class="post-meta">
                                             <span class="tag">
-                                                <i class="fal fa-tags"></i> 
+                                                <i class="fal fa-tags"></i>
                                                 <a href="#" *ngFor="let cat of getCategory(item.category) | slice:0:2">{{cat.title}},</a>
                                             </span>
                                             <span class="user" *ngFor="let user of getOrganiser(item.organiser)">
