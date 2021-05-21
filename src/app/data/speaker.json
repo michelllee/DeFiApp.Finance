@@ -24,7 +24,7 @@
         "id": 2,
         "img": "assets/images/MichelleTsing.jpg",
         "name": "Michelle Tsing",
-        "post": "DeFi, Governance & NFT",
+        "post": "Community, Standard\nManaging Partner, Cognito Capital\nAR & NFT Artist, @BITGODDESSES\nCofounder, Eight Meta\nCofounder, Governance Research Institute",
         "shortdesc":"",
         "htmldesc":"<h4>Michelle Tsing was an attorney at PayPal, where she helped the Large Merchant Services team achieved ubiquity. Prior to PayPal, she was at Cisco, eBay, Samsung and Apple.</h4><p>She co-founded a blockchain payments startup in 2015 and is an advisor to a number of AI, blockchain and 3D printing companies. She is also a mentor for Singularity University Ventures, Berkeley Blockchain Accelerator, SVI Academy and Hack Temple, which are tech incubators located in the United States.\n\nShe founded Robotics for Good: Chatbots, Messaging and AI community; and had donated her time to The Loving AI/XPRIZE Project, Compute for Cancer and Robots Without Borders. She is a member of the California and Georgia blockchain advocacy coalitions. She is also producer and host of Laptop Radio at Stanford University. Michelle is a cofounder at Governance Research Institute (non profit on e-governance and blockchain) and Eight Meta (spatial and XR NFTs). She is a community director at Standard Protocol.\n\nShe is Managing Partner at Cognito Capital and a NFT artist as bitgoddesses. <a href='htts://linktr.ee/bitgoddesses'>linktr.ee/bitgoddesses</a></p>",
         "social":[
@@ -273,7 +273,7 @@
     },
     {
         "id": 14,
-        "img": "assets/images/adv.jpg",
+        "img": "assets/images/advv.jpg",
         "name": "Adam Vaziri",
         "post": "CEO, Blockpass",
         "shortdesc":"",
@@ -440,12 +440,54 @@
         ]
     },
     {
-        "id": 21,
-        "img": "assets/images/samir.webp",
+        "id": 22,
+        "img": "assets/images/samir.png",
         "name": "Samiar Tehrani",
         "post": "Cofounder, Ratio Finance",
         "shortdesc":"",
         "htmldesc":"<h4>Platform and business developer. Building the future of collateralized based stable minting and permissionless asset management.</h4><p></p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 23,
+        "img": "assets/images/mathias.jpg",
+        "name": "Mathias Abdissa",
+        "post": "Cofounder, Ratio Finance",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p></p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/in/matiman",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 24,
+        "img": "assets/images/Justin.png",
+        "name": "Justin Newton",
+        "post": "Cofounder, Ratio Finance",
+        "shortdesc":"",
+        "htmldesc":"<h4>Justin Newton is the CEO and co-founder of Netki, the leader in digital ID validation solutions for Onboarding, KYC/AML and Travel Rule compliance. </h4><p>Netki’s solutions help wallet providers, exchanges, banks, fintech, governments and any company using blockchain technology comply with recent FATF, FINMA and FinCen guidance, while maintaining the principles of privacy and autonomy on which blockchain and cryptocurrency are founded. \n\nJustin has strategically positioned Netki to lead the charge in setting standards and policy for enterprise, digital identification, and digital currency ecosystems.  Justin currently serves on the Industry/Law Enforcement Portal Working Group of the Blockchain Alliance and the State Legislative Working Group of the Chamber of Digital Commerce.  Netki is a highly sought after participant to government-led initiatives on Digital Identity by US Treasury, the Monetary Authority of Singapore, the Central Bank of Aruba and other global agencies.  \n\nJustin is a pioneer in the development of Internet and blockchain technology.  Justin previously served on the Advisory Council for ARIN, the multinational registry for IP addresses and founded ISPC, the first trade association for Internet providers. He played a key role in ensuring the Internet Tax Freedom, the Communications Decency, the Digital Copyright, and the CAN-SPAM Acts aided the Internet industry’s growth while ensuring security and privacy for its users. He is the only person that has  contributed to authoring Internet standards (RFCs) and Bitcoin standards (BIPs).\n\n</p>",
         "social":[
 
           {
