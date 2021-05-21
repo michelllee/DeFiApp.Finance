@@ -4,28 +4,14 @@
         "img": "assets/images/RichardVelasquez.jpg",
         "name": "Richard Velasquez",
         "post": "Cofounder & CEO, Kanbee",
-        "shortdesc":"Ex Uber driver turned product engineer. Ex-Facebook. Launched & maintained two billion dollar products at FB. Founder of Kanbee, an app that pays people to budget using DeFi.",
+        "shortdesc":"",
         "htmldesc":"<h4>Ex Uber driver turned product engineer.</h4><p>Ex-Facebook. Launched & maintained two billion dollar products at FB. Founder of Kanbee, an app that pays people to budget using DeFi.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
+
             {
                 "icon":"fab fa-twitter",
                 "url":"/",
                 "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
             },
             {
                 "icon":"fab fa-linkedin-in",
@@ -39,33 +25,18 @@
         "img": "assets/images/MichelleTsing.jpg",
         "name": "Michelle Tsing",
         "post": "DeFi, Governance & NFT",
-        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
-        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "shortdesc":"",
+        "htmldesc":"<h4>Michelle Tsing was an attorney at PayPal, where she helped the Large Merchant Services team achieved ubiquity. Prior to PayPal, she was at Cisco, eBay, Samsung and Apple.</h4><p>She co-founded a blockchain payments startup in 2015 and is an advisor to a number of AI, blockchain and 3D printing companies. She is also a mentor for Singularity University Ventures, Berkeley Blockchain Accelerator, SVI Academy and Hack Temple, which are tech incubators located in the United States.\n\nShe founded Robotics for Good: Chatbots, Messaging and AI community; and had donated her time to The Loving AI/XPRIZE Project, Compute for Cancer and Robots Without Borders. She is a member of the California and Georgia blockchain advocacy coalitions. She is also producer and host of Laptop Radio at Stanford University. Michelle is a cofounder at Governance Research Institute (non profit on e-governance and blockchain) and Eight Meta (spatial and XR NFTs). She is a community director at Standard Protocol.\n\nShe is Managing Partner at Cognito Capital and a NFT artist as bitgoddesses. <a href='htts://linktr.ee/bitgoddesses'>linktr.ee/bitgoddesses</a></p>",
         "social":[
             {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
                 "icon":"fab fa-twitter",
-                "url":"/",
+                "url":"http://twitter.com/salutemichelle",
                 "title":"Twitter"
             },
             {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
                 "icon":"fab fa-youtube",
-                "url":"/",
+                "url":"http://linktr.ee/laptopradio",
                 "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
             }
         ]
     },
@@ -74,34 +45,20 @@
         "img": "assets/images/cm.jpg",
         "name": "Corey Mccauley",
         "post": "Eight Meta",
-        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "shortdesc":"",
         "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -109,34 +66,20 @@
         "img": "assets/images/elTe.jpg",
         "name": "Eliott Teissonniere",
         "post": "Cofounder, Governance Research Institute",
-        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "shortdesc":"",
         "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -144,34 +87,20 @@
         "img": "assets/images/trRo.jpg",
         "name": "Tristan Roberts",
         "post": "Summoner @ Etherize.io",
-        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
-        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "shortdesc":"",
+        "htmldesc":"<h4>Tristan is a student of the problem of how to bridge real world jurisdictions with the many realms of the cryptoverse. He applies his lessons learned with Etherize, an entity formation company that is a mesh between Aragon DAO and Wyoming LLC.</h4><p></p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -179,34 +108,20 @@
         "img": "assets/images/miMa.jpg",
         "name": "Miko Matsumura",
         "post": "Blockchain Investor & Startup Builder",
-        "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
+        "shortdesc":"",
         "htmldesc":"<h4>Miko is a General Partner with Gumi Ventures, a US $30M investment fund focused early stage blockchain startups and a cofounder of crypto exchange Evercoin</h4><p>Miko fell in love with open source software 25 years ago as chief Evangelist for the Java Language and Platform at Sun Microsystems. Since then he has been building open source software startups in Silicon Valley including raising over $50 million in venture capital for developer platform companies such as Gradle and financial infrastructure companies like Hazelcast and has participated in multiple exits including INFRAVIO, webMethods, and Db4O. He is an advisor in successful startups like Celsius (CeFi Lending), Idle Finance (DeFi Yield Aggregator), Pundi X (Payments), and KEYLESS (ID infrastructure). He has been an investor with Focus Ventures, a firm with over $800M under management, 9 IPOs and 44 exits and blockchain firm Pantera Capital. He holds a Master’s degree in Neuroscience from Yale University where he worked on abstract computational neural networks. </p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -214,34 +129,20 @@
         "img": "assets/images/jb.jpg",
         "name": "Joshua Baker",
         "post": " COO of System 9",
-        "shortdesc":"Joshua Baker is the COO of System 9, a cryptocurrency market maker. He also contributes articles to Hackernoon and previously exited a steel technology firm.",
+        "shortdesc":"",
         "htmldesc":"<h4>COO of System 9, a cryptocurrency market maker.</h4><p>Joshua Baker is the COO of System 9, a cryptocurrency market maker. He also contributes articles to Hackernoon and previously exited a steel technology firm.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -249,34 +150,20 @@
         "img": "assets/images/am.jpg",
         "name": "Aly Madhavji",
         "post": "Managing Partner at Blockchain Founders Fund and LP at Loyal VC & Draper Goren Holm",
-        "shortdesc":"Aly Madhavji 穆亚霖 is the Managing Partner at Blockchain Founders Fund which invests in and venture builds top-tier startups. He is a Limited Partner on Loyal VC and Draper Goren Holm. Aly consults organizations on emerging technologies such as INSEAD and the UN on solutions to help alleviate poverty. He is a Senior Blockchain Fellow at INSEAD and was recognized as a “Blockchain 100” Global Leader by Lattice80.",
+        "shortdesc":"",
         "htmldesc":"<h4>Aly Madhavji 穆亚霖 is the Managing Partner at Blockchain Founders Fund which invests in and venture builds top-tier startups.</h4><p>Aly Madhavji 穆亚霖 is the Managing Partner at Blockchain Founders Fund which invests in and venture builds top-tier startups. He is a Limited Partner on Loyal VC and Draper Goren Holm. Aly consults organizations on emerging technologies such as INSEAD and the UN on solutions to help alleviate poverty. He is a Senior Blockchain Fellow at INSEAD and was recognized as a “Blockchain 100” Global Leader by Lattice80. \n\nHe is an internationally acclaimed author, publishing three books and a monthly columnist for the leading blockchain magazine. Aly serves as a board member of CryptoStar Corp. (TSXV: CSTR), Mechanical Technology Incorporated (NASDAQ: MKTY) and has served on various advisory boards including the University of Toronto’s Governing Council, which manages a $2.5B budget. He is a mentor with Chinaccelerator, an elite accelerator program operated by the venture fund SOSV with $855M+ AUM and the Mobile Only Accelerator (MOX).\n\nAly holds a Master of Global Affairs as a Schwarzman Scholar from Tsinghua University (清华大学), a Master of Business Administration from INSEAD (Singapore and France), and a Bachelor of Commerce with Distinction from the University of Toronto.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -284,34 +171,20 @@
         "img": "assets/images/cn.png",
         "name": "Clayton Roche",
         "post": " Community Lead at UMA",
-        "shortdesc":"Clayton is the Community Lead at UMA (Universal Market Access) and the co-founder of the DeFi Nation group. He participated in the second PoolTogether lottery, interviewed Stani to celebrate $5M locked in Aave, and narrowly dodged the first bZx exploit.",
+        "shortdesc":"",
         "htmldesc":"<h4> Community Lead at UMA (Universal Market Access) and the co-founder of the DeFi Nation group.</h4><p>Clayton is the Community Lead at UMA (Universal Market Access) and the co-founder of the DeFi Nation group. He participated in the second PoolTogether lottery, interviewed Stani to celebrate $5M locked in Aave, and narrowly dodged the first bZx exploit.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -319,34 +192,20 @@
         "img": "assets/images/tnn.jpg",
         "name": "Tsolmondorj Natsagdorj",
         "post": "CTO @trysocialstack Head Quant @safemoon Defi researcher@harmonyprotocol ",
-        "shortdesc":"Serial Fintech Entrepreneur with 2 exits. Has consulted with Defense, Fortune 500, and multiple governments and banks in emerging markets.",
+        "shortdesc":"",
         "htmldesc":"<h4></h4><p>Serial Fintech Entrepreneur with 2 exits. Has consulted with Defense, Fortune 500, and multiple governments and banks in emerging markets.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -354,34 +213,20 @@
         "img": "assets/images/kh.jpg",
         "name": "Kamal Hubbard",
         "post": "Author | Advisor | Civil Rights Officer",
-        "shortdesc":"Author | Advisor | Civil Rights Officer",
+        "shortdesc":"",
         "htmldesc":"Author | Advisor | Civil Rights Officer",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -389,34 +234,20 @@
         "img": "assets/images/ahu.jpg",
         "name": "Alex Hatoum",
         "post": "Managing Partner @ IHS",
-        "shortdesc":"Alex Hatoum is the Managing Director at Infinitum Humanitarian Systems (IHS), a private sector social business built on a profit-for-purpose model, and focused on global health and capacity building in the developing world. He is responsible for all international business initiatives, including business incubation management and overseas research support. Hatoum, a native speaker of English, Spanish, Portuguese and French, has traveled extensively throughout the Americas, working in both governmental and private sector positions.\n\nAfter an education in multiple countries that included a degree in International Business and in an extended program in International Security and Conflict Resolution at San Diego State University, he accepted a position with the US Marshals Service on their Violent Crimes Task Force.\n\nDuring those years Hatoum worked alongside the US military on a broad range of trans-boundary issues before accepting a commission from the United States Army. There he continued to work on issues relating to information flow across international boundaries. After seven years of decorated service, he left the Army to continue his education, completing a Master’s degree in Homeland Security. After graduation, he took an assignment with the US Office of National Drug Control Policy where he worked on several cross-border policy projects. \n\nAlex has been in the blockchain space since 2016 and specifically with Polkadot since 2018. In 2020 Alex became a Polkadot Ambassador.",
+        "shortdesc":"",
         "htmldesc":"<h4>Alex Hatoum is the Managing Director at Infinitum Humanitarian Systems (IHS), a private sector social business built on a profit-for-purpose model, and focused on global health and capacity building in the developing world. He is responsible for all international business initiatives, including business incubation management and overseas research support. </h4><p>Hatoum, a native speaker of English, Spanish, Portuguese and French, has traveled extensively throughout the Americas, working in both governmental and private sector positions.\n\nAfter an education in multiple countries that included a degree in International Business and in an extended program in International Security and Conflict Resolution at San Diego State University, he accepted a position with the US Marshals Service on their Violent Crimes Task Force.\n\nDuring those years Hatoum worked alongside the US military on a broad range of trans-boundary issues before accepting a commission from the United States Army. There he continued to work on issues relating to information flow across international boundaries. After seven years of decorated service, he left the Army to continue his education, completing a Master’s degree in Homeland Security. After graduation, he took an assignment with the US Office of National Drug Control Policy where he worked on several cross-border policy projects. \n\nAlex has been in the blockchain space since 2016 and specifically with Polkadot since 2018. In 2020 Alex became a Polkadot Ambassador. </p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -427,31 +258,17 @@
         "shortdesc":"",
         "htmldesc":"<h4>Olayinka is the founder and CEO of CybSecWatch, boutique governance, risk and compliance educational consulting firm. </h4><p>She brings more than 18 years of executive experience in risk management and compliance.   Olayinka is an insightful and forward-thinking expert with extensive experience ensuring fulfillment of firm policies, procedures and federal mandates governing compliance and cybersecurity.  Olayinka brings her driven/ innovative mindset to provide information assurance to help strengthen the enterprise cybersecurity landscape.  As a blockchain enthusiast Olayinka is involved in several blockchain projects promoting women and minorities in tech and has co-founder Black Women Blockchain Council, a benefit LLC promoting black women in blockchain, fintech and future technologies.  In her spare time, Olayinka writes for various publications and has also been a speaker at various conferences on regulations, cybersecurity and blockchain. Olayinka holds a M. Sc in Cybersecurity Management and Policy from the University of Maryland Global College and a BA from Boston University.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     },
     {
@@ -462,31 +279,185 @@
         "shortdesc":"",
         "htmldesc":"<h4>Adam is the founder and CEO of Blockpass - a self sovereign identity application for regulated industries.</h4><p>Adam Vaziri's background is as a blockchain lawyer and set up Diacle in 2013 to assist blockchain projects with compliance. Adam has worked on the development of regulations in crypto in the early days in 2013 onwards. He was the first lawyer specialised in crypto in 2013. Adam believes that Web3.0 will bring blockchain to the mainstream but that regtech is required. Adam is Technical Author of the British Standards Institution standard on security tokens PAS19668:2020. Adam co-founded the UK Digital Currency Association and cofounded bitlegal.io which was at the time the most renowned tracker for the legal status of bitcoin (as featured by CNN and Washington Post). Adam also set up the first bitcoin hackathon in the UK and India labelled HackCoin. Adam has been involved in the development of standards for crypto-assets. He co-founded a fund called QRC to invest in regtech businesses and develop standards. QRC collaborated with the University of Malaya in the development of legal research into aspects of crypto-assets. QRC sponsored the development of a data standard for Security Tokens and Adam was the Technical Author of the same.</p>",
         "social":[
-            {
-                "icon":"fab fa-facebook-f",
-                "url":"/",
-                "title":"Facebook"
-            },
-            {
-                "icon":"fab fa-twitter",
-                "url":"/",
-                "title":"Twitter"
-            },
-            {
-                "icon":"fab fa-behance",
-                "url":"/",
-                "title":"Behance"
-            },
-            {
-                "icon":"fab fa-youtube",
-                "url":"/",
-                "title":"Youtube"
-            },
-            {
-                "icon":"fab fa-linkedin-in",
-                "url":"/",
-                "title":"Linked In"
-            }
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 15,
+        "img": "assets/images/zeb.jpg",
+        "name": "Zeb Lelie",
+        "post": "Head of the Research Department, Cyber Capital. Crypto Asset Investments & Funds.",
+        "shortdesc":"",
+        "htmldesc":"<h4>Zeb Lelie has been involved with Cyber Capital as a Research Associate since the start of the firm in 2016.</h4><p>He has an academic background in Political Science and Political History at the University of Amsterdam. This path has led him towards Bitcoin in 2014 and ever since he learned about the power of programmable money, crypto has taken hold of his life.\nBesides Cyber Capital, Zeb worked with the Blockchain Meetup in Hanoi and at the Blockchain Workspace of Amsterdam, a blockchain development group. Aside from offline discussions, Zeb also became an active participant in on-chain DeFi governance.\nBack in 2015 he founded the DYOR Crypto Wiki, a comprehensive database focused on the crypto-sphere. Through his reputation within the space, he became an advisor to multiple projects and research groups. At Cyber Capital, Zeb takes care of extensive analysis on crypto assets and has been heading the research department since 2020.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 16,
+        "img": "assets/images/pj.jpg",
+        "name": "Pooja Sinha",
+        "post": "Attorney at Law, Forte Law LL",
+        "shortdesc":"",
+        "htmldesc":"<h4>\"BigLaw\" experience at Clifford Chance, Linklaters and O’Melveny across London and Singapore</h4><p>Versatile experience cutting across general finance, debt restructuring, corporate & commercial, in-house advisory and investment fund formations. Guided start-ups on their licensing and fundraising strategies. including in the digital token space.\n\n-Corporate finance specialist experienced in large banking, capital markets and debt restructuring transactions for corporates, i-banks, sovereign wealth funds and other financial market intermediaries.\n\n-Closed 100+ transactions in the US, Europe and Asia in the course of my career including several first-of-its-kind transactions.\n\n-Hold leadership roles in global, professional associations- I'm the Asia Networks Director of IWIRC and the only Singapore-based practitioner on INSOL’s Technical Committee 2019-2021.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 17,
+        "img": "assets/images/aft.jpg",
+        "name": "Álvaro Fernández Tenorio",
+        "post": "Head of Strategy @ Nsure Network",
+        "shortdesc":"",
+        "htmldesc":"<h4>Majored in Economics and Finance, Alvaro has developed his career around the Blockchain & FinTech Industry, as venture capitalist, consultant and strategist. </h4><p>Currently head of strategy and growth at Nsure Network, an open insurance platform for Open Finance (DeFi). The project is inspired by Lloyd’s London, a market place to trade insurance risks, where premiums are determined by a dynamic pricing model.. Previously Vice President and Managing Director for Europe at JRR Group. Despite his entrepreneurial experience, he has served as Strategic Advisor and consulted various projects and institutions, including DBS & former Italian Undersecretary of State for the Ministry of Economic Development.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 18,
+        "img": "assets/images/amanda.jpg",
+        "name": "Amanda",
+        "post": "BD & Marketing at SushiSwap",
+        "shortdesc":"",
+        "htmldesc":"<h4>Traditional finance background, but made the switch to crypto in 2017</h4><p> when colleagues started quitting after becoming Bitcoin millionaires overnight. Focused on making the many aspects of Sushi make sense and building the Sushi ecosystem out to convince all the traditional finance people left behind to also make the switch.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 19,
+        "img": "assets/images/eddie.jpg",
+        "name": "Eddie Kago",
+        "post": "Founder and CEO of Vibranium ID",
+        "shortdesc":"",
+        "htmldesc":"<h4>Eddie is the Founder and CEO of Vibranium ID, a Kenyan Digital Identity startup developing KYC solutions and Blockchain Identity wallets.</h4><p>He conceptualized and helped architect Kweli (kweli-ssi.web.app), a software framework that can be used for Pan-African blockchain supported digital identity. He frequently writes about Decentralized Identity on his Medium blog (medium.com/@kago) and is the Community Lead of Facebook Developer Circle Nairobi. Eddie holds a BSc in Business Information Technology, First Class Honours, from Strathmore University.\nNotably, Eddie is a finalist of the Rhodes Scholars Program and is an alumnus of the Obama-initiated Young African Leadership Initiative (YALI). He is also a 2020 candidate of the Crossroads Emerging Leaders Program by the Harvard Business School Club of the GCC.\n</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 20,
+        "img": "assets/images/hyung.jpg",
+        "name": "Hyungsuk Kang",
+        "post": "CTO & Cofounder, Standard Protocol",
+        "shortdesc":"",
+        "htmldesc":"<h4>Hyungsuk Kang is a software engineer with strong background in cryptocurrency, blockchain, and distributed ledger technology. </h4><p>He is the CTO and Cofounder of Standard Protocol, Polkadot's first stablecoin based synthetic asset defi protocol. He is also a software engineer at Plasm, Head Ambassador for East Asia of Polkadot, and Co-founder at PolkaKR. With his versatility from over 5 years of research and development in software and cutting edge industries, he enjoys solving technical challenges.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 21,
+        "img": "assets/images/shimon.png",
+        "name": "Shimon Newman",
+        "post": "Co-Founder Ratio Finance",
+        "shortdesc":"",
+        "htmldesc":"<h4>Game theorist, token economist and incentive designer. Building the future of collateralized based stable minting and permissionless asset management.</h4><p></p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 21,
+        "img": "assets/images/shimon.png",
+        "name": "Samiar Tehrani",
+        "post": "Cofounder, Ratio Finance",
+        "shortdesc":"",
+        "htmldesc":"<h4Platform and business developer. Building the future of collateralized based stable minting and permissionless asset management.</h4><p></p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
         ]
     }
 ]

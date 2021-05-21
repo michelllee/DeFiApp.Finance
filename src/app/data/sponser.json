@@ -38,5 +38,10 @@
         "id": 4,
         "img": "assets/images/Orange_W_Tag.png",
         "title": "Clayton Roche (UMA)"
+    },
+    {
+        "id": 4,
+        "img": "assets/images/sushi.png",
+        "title": "Sushi"
     }
 ]

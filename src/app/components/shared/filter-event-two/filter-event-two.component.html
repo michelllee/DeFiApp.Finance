@@ -38,12 +38,12 @@
                                         <div class="post-meta">
                                             <span class="tag">
                                                 <i class="fal fa-clock"></i>
-                                                <a href="#">{{item.timeing}}</a>
+                                                <a href="#" style="color: #01a4e2">{{item.timeing}}</a>
 <!--                                                <a href="#" *ngFor="let cat of getCategory(item.category) | slice:0:2">{{cat.title}},</a>-->
                                             </span>
-                                            <span *ngIf="item.speakers!=undefined" class="user">
-                                                <i class="fal fa-users"></i>
-                                                <a  href="#">{{item.speakers}}</a>
+                                            <span *ngIf="item.speakers!=undefined" class="user" style="display: flex">
+                                                <i class="fal fa-users pt-1"></i>
+                                                <a  href="#" style="white-space: pre;color: #f7f1ff;" [innerHTML]="item.speakers"></a>
                                             </span>
                                         </div>
                                     </div>

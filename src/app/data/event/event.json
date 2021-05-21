@@ -2,11 +2,13 @@
     {
         "id": 1,
         "title": "DeFi Keynote",
-        "timeing": "8:00 - 8:20 AM (EST)"
+        "timeing": "8:00 - 8:20 AM (EST)",
+        "speakers": "Moderator: Mathias\nPanelists: Dennis , Amanda (SushiSwap), Felix (Dash Next), Robert Miller(Fuse) "
      }, {
         "id": 1,
         "title": "Decentralized Finance",
-        "timeing": "8:20 AM - 9 AM (EST)"
+        "timeing": "8:20 AM - 9 AM (EST)",
+        "speakers": ""
      }, {
         "id": 1,
         "title": "Research & DeFi",
@@ -21,11 +23,11 @@
         "timeing": "9:40 AM - 10 AM (EST)"
      }, {
         "id": 1,
-        "title": "The Future of Stablecoin",
+        "title": "Decentralized ID",
         "timeing": "10:30 AM - 11:10 AM (EST)"
      }, {
         "id": 1,
-        "title": "Decentralized ID",
+        "title": "The Future of Stablecoin",
         "timeing": "11:10 AM - 11:50 AM (EST)"
      }, {
         "id": 1,
