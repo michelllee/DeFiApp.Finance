@@ -33,5 +33,10 @@
         "id": 4,
         "img": "assets/images/sa.png",
         "title": "Santym"
+    },
+    {
+        "id": 4,
+        "img": "assets/images/Orange_W_Tag.png",
+        "title": "Clayton Roche (UMA)"
     }
 ]

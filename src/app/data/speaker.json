@@ -278,5 +278,75 @@
                 "title":"Linked In"
             }
         ]
+    },
+    {
+        "id": 9,
+        "img": "assets/images/cn.png",
+        "name": "Clayton Roche",
+        "post": " Community Lead at UMA",
+        "shortdesc":"Clayton is the Community Lead at UMA (Universal Market Access) and the co-founder of the DeFi Nation group. He participated in the second PoolTogether lottery, interviewed Stani to celebrate $5M locked in Aave, and narrowly dodged the first bZx exploit.",
+        "htmldesc":"<h4> Community Lead at UMA (Universal Market Access) and the co-founder of the DeFi Nation group.</h4><p>Clayton is the Community Lead at UMA (Universal Market Access) and the co-founder of the DeFi Nation group. He participated in the second PoolTogether lottery, interviewed Stani to celebrate $5M locked in Aave, and narrowly dodged the first bZx exploit.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "img": "assets/images/tn.png",
+        "name": "Tsolmondorj Natsagdorj",
+        "post": "CTO @trysocialstack Head Quant @safemoon Defi researcher@harmonyprotocol ",
+        "shortdesc":"Serial Fintech Entrepreneur with 2 exits. Has consulted with Defense, Fortune 500, and multiple governments and banks in emerging markets.",
+        "htmldesc":"<h4></h4><p>Serial Fintech Entrepreneur with 2 exits. Has consulted with Defense, Fortune 500, and multiple governments and banks in emerging markets.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
     }
 ]

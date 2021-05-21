@@ -36,13 +36,13 @@
                     </nav>
                     <div class="nav-pushed-item">
                         <div class="navbar-btn">
-                            <a class="main-btn" [routerLink]="registerLink"><i class="fal fa-video"></i> Register</a>
+                            <a class="main-btn" [href]="registerLink"><i class="fal fa-video"></i> Register</a>
                         </div>
                     </div>
                 </div>
                 <div class="nav-push-item" [ngClass]="visible ? '' : 'd-none'" (window:resize)="detectHeader()">
                     <div class="navbar-btn">
-                        <a class="main-btn" [routerLink]="registerLink"><i class="fal fa-video"></i> Register</a>
+                        <a class="main-btn" [href]="registerLink"><i class="fal fa-video"></i> Register</a>
                     </div>
                 </div>
                 <!-- Navbar Toggler -->

@@ -7,10 +7,5 @@
     "id": 3,
     "link": "/speakers",
     "linkText": "Speakers"
-  },
-  {
-    "id": 2,
-    "linkText": "About",
-    "link": "/about"
   }
 ]
