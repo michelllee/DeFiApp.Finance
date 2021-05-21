@@ -2,46 +2,36 @@
     {
         "id": 1,
         "img": "assets/images/sponsors-1.png",
-        "title": "Company Name"
+        "title": "Dash"
     },
     {
         "id": 2,
         "img": "assets/images/sponsors-2.png",
-        "title": "Company Name"
+        "title": "Eight Meta"
     },
     {
         "id": 3,
         "img": "assets/images/sponsors-3.png",
-        "title": "Company Name"
+        "title": "G.R.I"
     },
     {
         "id": 4,
         "img": "assets/images/sponsors-4.png",
-        "title": "Company Name"
+        "title": "standard"
     },
     {
-        "id": 5,
-        "img": "assets/images/sponsors-5.png",
-        "title": "Company Name"
+        "id": 4,
+        "img": "assets/images/s9.jpg",
+        "title": "S9"
     },
     {
-        "id": 6,
-        "img": "assets/images/sponsors-6.png",
-        "title": "Company Name"
+        "id": 4,
+        "img": "assets/images/bch.jpg",
+        "title": "Blockchain"
     },
     {
-        "id": 7,
-        "img": "assets/images/sponsors-7.png",
-        "title": "Company Name"
-    },
-    {
-        "id": 8,
-        "img": "assets/images/sponsors-8.png",
-        "title": "Company Name"
-    },
-    {
-        "id": 9,
-        "img": "assets/images/sponsors-9.png",
-        "title": "Company Name"
+        "id": 4,
+        "img": "assets/images/sa.png",
+        "title": "Santym"
     }
 ]

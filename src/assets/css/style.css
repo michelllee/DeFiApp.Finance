@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template URI: https://webtend.net/demo/angular/ovent/   
+    Template URI: https://webtend.net/demo/angular/ovent/
     Author: WebTend
     Author URI: https://webtend.net/
     Version: 1.0
@@ -29,7 +29,7 @@
 -----------------------------------------------------------------------------------*/
 
 /*===========================
-    1.  COMMON css 
+    1.  COMMON css
 ===========================*/
 
 @import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:wght@100;300;400;500;600;700;800;900&display=swap");
@@ -394,7 +394,7 @@ p {
 /*------- header css --------*/
 
 /*===========================
-    2.	HEADER css 
+    2.	HEADER css
 ===========================*/
 
 .header-area {
@@ -1026,7 +1026,7 @@ p {
 /*------- banner css --------*/
 
 /*===========================
-    3.	BANNER css 
+    3.	BANNER css
 ===========================*/
 
 .banner-area-v1 {
@@ -1452,7 +1452,7 @@ p {
 /*------- about css --------*/
 
 /*===========================
-    4.	ABOUT css 
+    4.	ABOUT css
 ===========================*/
 
 .ovent-content-box h4 {
@@ -1919,7 +1919,7 @@ p {
 /*------- video css --------*/
 
 /*===========================
-    5.	INTRO VIDEO css 
+    5.	INTRO VIDEO css
 ===========================*/
 
 .video-area-v1 {
@@ -2091,7 +2091,7 @@ p {
 /*------- team css --------*/
 
 /*===========================
-    6.	TEAM css 
+    6.	TEAM css
 ===========================*/
 
 .team-area {
@@ -2374,7 +2374,7 @@ p {
 /*------- counter css --------*/
 
 /*===========================
-    7.	COUNTER css 
+    7.	COUNTER css
 ===========================*/
 
 .counter-area {
@@ -2547,7 +2547,7 @@ p {
 /*------- events css --------*/
 
 /*===========================
-    8.	EVENTS css 
+    8.	EVENTS css
 ===========================*/
 
 .events-area {
@@ -3309,7 +3309,7 @@ p {
 /*------- gallery css --------*/
 
 /*===========================
-    9.	Gallery css 
+    9.	Gallery css
 ===========================*/
 
 .gallery-area-v1 .masonry-gallery .grid_column {
@@ -3413,7 +3413,7 @@ p {
 /*------- pricing css --------*/
 
 /*===========================
-    10.	Pricing css 
+    10.	Pricing css
 ===========================*/
 
 .pricing-area-1 {
@@ -3695,7 +3695,7 @@ p {
 /*------- shop css --------*/
 
 /*===========================
-    11.	Shop css 
+    11.	Shop css
 ===========================*/
 
 .shop-page-section {
@@ -3933,7 +3933,7 @@ p {
 	font-size: 14px;
 }
 /*===========================
-    Shop-details css 
+    Shop-details css
 ===========================*/
 
 .shop-details-section .rating li {
@@ -4277,7 +4277,7 @@ p {
 /*------- sponsors css --------*/
 
 /*===========================
-    12.	SPONSORS css 
+    12.	SPONSORS css
 ===========================*/
 
 .sponsors-area .section-title-1 .span {
@@ -4333,7 +4333,7 @@ p {
 	opacity: 1;
 }
 .sponsors-area-2 {
-	background: #fffafa;
+	background: #ffffff;
 }
 .sponsors-area-2 .sponsors-flex .sponsors-item img {
 	opacity: 1;
@@ -4461,7 +4461,7 @@ p {
 /*------- blog css --------*/
 
 /*===========================
-    13.	BLOG css 
+    13.	BLOG css
 ===========================*/
 
 .gallery-blog-area {
@@ -5920,7 +5920,7 @@ p {
 /*------- contact css --------*/
 
 /*===========================
-    14.	Contact css 
+    14.	Contact css
 ===========================*/
 
 .contact-area-v1 {
@@ -6214,7 +6214,7 @@ p {
 /*------- footer css --------*/
 
 /*===========================
-    15.	Footer css 
+    15.	Footer css
 ===========================*/
 
 .footer-area-v1 {

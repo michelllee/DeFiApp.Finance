@@ -1,6 +1,7 @@
 import { Component, OnInit, HostListener, Inject } from '@angular/core';
 import { DOCUMENT } from '@angular/common';
 import navigation from '../../../data/navigation.json';
+import {environment} from '../../../../environments/environment';
 
 @Component({
   selector: 'app-header-two',
@@ -11,12 +12,13 @@ export class HeaderTwoComponent implements OnInit {
 
   constructor(@Inject(DOCUMENT) document:any) { }
   public navigation = navigation;
+  public registerLink = environment.registerLink;
   // Navigation
   navMethod: boolean = true;
   toggleNav() {
     this.navMethod = !this.navMethod;
   }
-  // Mobile 
+  // Mobile
   open: boolean = false;
   trigger(item: { open: boolean; }){
     item.open = !item.open;
@@ -29,7 +31,7 @@ export class HeaderTwoComponent implements OnInit {
        element.classList.add('sticky');
      } else {
       let element = <HTMLElement>document.getElementById('sticky-header');
-        element.classList.remove('sticky'); 
+        element.classList.remove('sticky');
      }
   }
   // Add class on resize and onload window

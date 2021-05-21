@@ -1,152 +1,16 @@
 [
-    {
-        "id": 1,
-        "linkText": "Home",
-        "child": true,
-        "submenu": [
-            {
-                "id": 11,
-                "link": "/",
-                "linkText": "Home v1"
-            },
-            {
-                "id": 12,
-                "link": "/home-v2",
-                "linkText": "Home v2"
-            },
-            {
-                "id": 13,
-                "link": "/home-v3",
-                "linkText": "Home v3"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "linkText": "About",
-        "link": "/about"
-    },
-    {
-        "id": 3,
-        "linkText": "Speakers",
-        "child": true,
-        "submenu": [
-            {
-                "id": 31,
-                "link": "/speakers",
-                "linkText": "Our Speakers"
-            },
-            {
-                "id": 32,
-                "link": "/speaker-details/1",
-                "linkText": "Speakers Details"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "linkText": "Event",
-        "child": true,
-        "submenu": [
-            {
-                "id": 41,
-                "link": "/event",
-                "linkText": "Events"
-            },
-            {
-                "id": 42,
-                "link": "/event-details/1",
-                "linkText": "Event Details"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "linkText": "Pages",
-        "child": true,
-        "submenu": [
-            {
-                "id": 51,
-                "link": "/shop",
-                "linkText": "Our Shop"
-            },
-            {
-                "id": 52,
-                "link": "/shop-details/1",
-                "linkText": "Shop Details"
-            },
-            {
-                "id": 53,
-                "link": "/shedules",
-                "linkText": "Schedules"
-            },
-            {
-                "id": 54,
-                "link": "/shedules-v2",
-                "linkText": "Schedules v2"
-            },
-            {
-                "id": 55,
-                "link": "/sponsors",
-                "linkText": "Sponsors"
-            },
-            {
-                "id": 56,
-                "link": "/gallery",
-                "linkText": "Gallery"
-            },
-            {
-                "id": 57,
-                "link": "/gallery-v2",
-                "linkText": "Gallery v2"
-            },
-            {
-                "id": 58,
-                "link": "/pricing",
-                "linkText": "Pricing"
-            },
-            {
-                "id": 59,
-                "link": "/faq",
-                "linkText": "FAQ's"
-            },
-            {
-                "id": 510,
-                "link": "/contact",
-                "linkText": "Contact"
-            },
-            {
-                "id": 511,
-                "link": "/coming-soon",
-                "linkText": "Coming Soon"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "linkText": "Blog",
-        "child": true,
-        "submenu": [
-            {
-                "id": 61,
-                "link": "/blog-standard",
-                "linkText": "Blog Standard"
-            },
-            {
-                "id": 62,
-                "link": "/blog-grid",
-                "linkText": "Blog Grid"
-            },
-            {
-                "id": 63,
-                "link": "/blog-grid-v2",
-                "linkText": "Blog Grid 3 Column"
-            },
-            {
-                "id": 63,
-                "link": "/blog-details/1",
-                "linkText": "Blog Details"
-            }
-        ]
-    }
+  {
+    "id": 1,
+    "linkText": "Home"
+  },
+  {
+    "id": 3,
+    "link": "/speakers",
+    "linkText": "Speakers"
+  },
+  {
+    "id": 2,
+    "linkText": "About",
+    "link": "/about"
+  }
 ]

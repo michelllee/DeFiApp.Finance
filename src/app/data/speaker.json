@@ -208,5 +208,75 @@
                 "title":"Linked In"
             }
         ]
+    },
+    {
+        "id": 7,
+        "img": "assets/images/jb.jpg",
+        "name": "Joshua Baker",
+        "post": " COO of System 9",
+        "shortdesc":"Joshua Baker is the COO of System 9, a cryptocurrency market maker. He also contributes articles to Hackernoon and previously exited a steel technology firm.",
+        "htmldesc":"<h4>COO of System 9, a cryptocurrency market maker.</h4><p>Joshua Baker is the COO of System 9, a cryptocurrency market maker. He also contributes articles to Hackernoon and previously exited a steel technology firm.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "assets/images/am.jpg",
+        "name": "Aly Madhavji",
+        "post": "Managing Partner at Blockchain Founders Fund and LP at Loyal VC & Draper Goren Holm",
+        "shortdesc":"Aly Madhavji 穆亚霖 is the Managing Partner at Blockchain Founders Fund which invests in and venture builds top-tier startups. He is a Limited Partner on Loyal VC and Draper Goren Holm. Aly consults organizations on emerging technologies such as INSEAD and the UN on solutions to help alleviate poverty. He is a Senior Blockchain Fellow at INSEAD and was recognized as a “Blockchain 100” Global Leader by Lattice80.",
+        "htmldesc":"<h4>Aly Madhavji 穆亚霖 is the Managing Partner at Blockchain Founders Fund which invests in and venture builds top-tier startups.</h4><p>Aly Madhavji 穆亚霖 is the Managing Partner at Blockchain Founders Fund which invests in and venture builds top-tier startups. He is a Limited Partner on Loyal VC and Draper Goren Holm. Aly consults organizations on emerging technologies such as INSEAD and the UN on solutions to help alleviate poverty. He is a Senior Blockchain Fellow at INSEAD and was recognized as a “Blockchain 100” Global Leader by Lattice80. \n\nHe is an internationally acclaimed author, publishing three books and a monthly columnist for the leading blockchain magazine. Aly serves as a board member of CryptoStar Corp. (TSXV: CSTR), Mechanical Technology Incorporated (NASDAQ: MKTY) and has served on various advisory boards including the University of Toronto’s Governing Council, which manages a $2.5B budget. He is a mentor with Chinaccelerator, an elite accelerator program operated by the venture fund SOSV with $855M+ AUM and the Mobile Only Accelerator (MOX).\n\nAly holds a Master of Global Affairs as a Schwarzman Scholar from Tsinghua University (清华大学), a Master of Business Administration from INSEAD (Singapore and France), and a Bachelor of Commerce with Distinction from the University of Toronto.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
     }
 ]

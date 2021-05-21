@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-contact',
@@ -7,11 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ContactComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+  }
+
   // Footer style
-  classname = "footer-area footer-area-v1 footer-area-v3  bg_cover";
-  ftlogo = "assets/images/logo-2.png";
-  ftbg = "assets/images/footer-3.jpg";
+  classname = 'footer-area footer-area-v1 footer-area-v3  bg_cover';
+  ftlogo = 'assets/images/logo-2.png';
+  ftbg = 'assets/images/footer-3.jpg';
 
   ngOnInit(): void {
   }

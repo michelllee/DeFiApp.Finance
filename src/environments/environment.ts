@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  registerLink: 'https://veexinc.zoom.us/webinar/register/WN_odd9mjVEQaCaBXUYVOwipA',
 };
 
 /*

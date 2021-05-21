@@ -5,7 +5,7 @@
                 <!-- site logo -->
                 <div class="brand_logo">
                     <a routerLink="/"><img src="assets/images/logo-3.png" class="img-fluid main-logo" alt=""></a>
-                    <a routerLink="/"><img src="assets/images/logo-1.png" class="img-fluid sticky-logo" alt=""></a>
+                    <a routerLink="/"><img src="assets/images/logo-bl.png" class="img-fluid sticky-logo" alt=""></a>
                 </div>
                 <div class="nav-menu" [ngClass]="navMethod ? '' : 'menu-on'">
                     <!-- Navbar Close Icon -->
@@ -36,13 +36,13 @@
                     </nav>
                     <div class="nav-pushed-item">
                         <div class="navbar-btn">
-                            <a class="main-btn" routerLink="/event"><i class="fal fa-ticket"></i> Buy Ticket</a>
+                            <a class="main-btn" [routerLink]="registerLink"><i class="fal fa-video"></i> Register</a>
                         </div>
                     </div>
                 </div>
                 <div class="nav-push-item" [ngClass]="visible ? '' : 'd-none'" (window:resize)="detectHeader()">
                     <div class="navbar-btn">
-                        <a class="main-btn" routerLink="/event"><i class="fal fa-ticket"></i> Buy Ticket</a>
+                        <a class="main-btn" [routerLink]="registerLink"><i class="fal fa-video"></i> Register</a>
                     </div>
                 </div>
                 <!-- Navbar Toggler -->
