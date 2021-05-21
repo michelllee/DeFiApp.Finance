@@ -48,5 +48,20 @@
         "id": 4,
         "img": "assets/images/netki.png",
         "title": "netki"
+    },
+    {
+        "id": 4,
+        "img": "assets/images/tmt.png",
+        "title": "TMT"
+    },
+    {
+        "id": 4,
+        "img": "assets/images/iota.png",
+        "title": "IOTA"
+    },
+    {
+        "id": 4,
+        "img": "assets/images/ZenLedger.png",
+        "title": "ZenLedger"
     }
 ]

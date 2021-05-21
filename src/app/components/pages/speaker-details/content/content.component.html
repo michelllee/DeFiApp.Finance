@@ -17,7 +17,7 @@
                             <h2>{{item.name}}</h2>
                         </div>
                     </div>
-                    <div [innerHtml]="item.htmldesc"></div>
+                    <div [innerHtml]="item.htmldesc" style="white-space: pre-line;"></div>
                     <ul>
                         <li *ngFor="let item of item.social">
                             <a [href]="item.url">

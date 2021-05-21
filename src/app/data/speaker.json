@@ -501,5 +501,89 @@
             "title":"Linked In"
           }
         ]
+    },
+    {
+        "id": 25,
+        "img": "assets/images/Warren.jpg",
+        "name": "Warren Lorenz",
+        "post": "Founder & Managing Principal of TechMeetsTrader",
+        "shortdesc":"",
+        "htmldesc":"<h4>Warren Lorenz is the Founder & Managing Principal of TechMeetsTrader and a Venture Partner at Blockchain Founders Fund which both invests in and venture build top-tier startups. He is a Limited Partner at multiple digital asset hedge funds, and sits on the Board of Directors of CryptoStar (TSX.V CSTR), a data center and cryptocurrency mining operator. </h4><p>He is an entrepreneur with multiple trading systems that were built, licensed, and sold to Hedge Funds, Proprietary Trading Offices, and Family Offices. Prior to that, he had exited an EdTech company that he helped scale from 7 Universities to 130 within 12 months. He currently acts as an advisor for multiple companies ranging from FinTech, Ecommerce, and Blockchain technologies.\n\n \n\nAdditionally, Warren was part of Batch 13 at 500 Startups VC out of Mountain View, California, where he and 32 other companies developed their businesses. He was a licensed Investment Advisor at Northwestern Mutual, where he passed FINRA’s Series 7 and Series 66 exams, and is an active investor across multiple industries.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 26,
+        "img": "assets/images/pet.jpg",
+        "name": "Peter Okwara",
+        "post": "Software Developer at IOTA Foundation",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>He is passionate about Blockchain, Internet of Things, Data and using using Human Centered Design to solve problems that occur all around us. \nHis goal is to be at the forefront in providing software and hardware solutions in Africa.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 27,
+        "img": "assets/images/jorn.jpg",
+        "name": "Jörn Erbguth",
+        "post": "Privacy & GDPR Consultant",
+        "shortdesc":"",
+        "htmldesc":"<h4>Jörn Erbguth is a consultant on blockchain and data protection (GDPR). With majors in computer science and law, he takes a multidisciplinary approach to new technology. </h4><p>. He is an enabler of privacy by design where legal and technological aspects need to be tightly integrated. Jörn previously worked as a software developer, a product manager and was head of ICT and CTO for legal information systems in Germany and Switzerland. He has been invited to the European Commission, the German Bundestag and the Parliament of Sachsen to discuss Blockchain, data protection and information security. Jörn writes about technology and law and lectures at the Geneva School of Diplomacy, the University of Lucerne and the University of St. Gallen. He is active in Blockchain standardization at the International Telecommunication Union (ITU) and was a member of DIN SPEC 4997 Privacy by Blockchain Design. He works with Geneva Macro Labs as Head of Technology Insights. Jörn also serves as a board member for the German EDV-Gerichtstag (German Association for Computing in the Judiciary) and the Swiss entscheidsuche.ch association. The latter engages in making Swiss court cases easily and freely available to the public. He organizes workshops at UN conferences on these topics such as the Internet Governance Forum IGF and the World Summit of Information Society WSIS.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 28,
+        "img": "assets/images/pat.png",
+        "name": "Pat Larsen",
+        "post": "Cofounder and CEO ZenLedger.io",
+        "shortdesc":"",
+        "htmldesc":"<h4>Pat is the Cofounder and CEO of ZenLedger.io, a cryptocurrency tax and accounting startup</h4><p>Pat and his cofounder, Bryan Starbuck, launched ZenLedger in 2017 and now work with Big 4 accounting firms, thousands of tax professionals, and tens of thousands of cryptocurrency investors. Pat holds a BS in Materials Science Chemistry from the US Air Force Academy and a MBA from the University of Chicago Booth School of Business. Pat has worked at Amazon and investment banking. He was also a US Navy helicopter pilot.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"https://twitter.com/PatrickLarsen",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/in/patlarsen1/",
+            "title":"Linked In"
+          }
+        ]
     }
 ]

@@ -1,85 +1,126 @@
 [
-    {
-        "id": 1,
-        "title": "DeFi Keynote",
-        "timeing": "8:00 - 8:20 AM (EST)",
-        "speakers": "Moderator: Mathias\nPanelists: Dennis , Amanda (SushiSwap), Felix (Dash Next), Robert Miller(Fuse) "
-     }, {
-        "id": 1,
-        "title": "Decentralized Finance",
-        "timeing": "8:20 AM - 9 AM (EST)",
-        "speakers": ""
-     }, {
-        "id": 1,
-        "title": "Research & DeFi",
-        "timeing": "9:00 AM - 9:20 AM (EST)"
-     }, {
-        "id": 1,
-        "title": "Governance & DeFi",
-        "timeing": "9:20 AM - 9:40 AM (EST)"
-     }, {
-        "id": 1,
-        "title": "Privacy & DeFi",
-        "timeing": "9:40 AM - 10 AM (EST)"
-     }, {
-        "id": 1,
-        "title": "Decentralized ID",
-        "timeing": "10:30 AM - 11:10 AM (EST)"
-     }, {
-        "id": 1,
-        "title": "The Future of Stablecoin",
-        "timeing": "11:10 AM - 11:50 AM (EST)"
-     }, {
-        "id": 1,
-        "title": "Taxes & DeFi",
-        "timeing": "11:50 AM - 12:10 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "Investors & Investing",
-        "timeing": "12:10 PM - 12:50 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "DeFi vs CeFi",
-        "timeing": "12:50 PM - 1:30 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "DeFi Market Making",
-        "timeing": "1:30 PM - 2:10 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "DAOs & The Way We Collaborate",
-        "timeing": "2:10 PM - 2:50 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "Data Analytics",
-        "timeing": "2:50 PM - 3:10 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "Polkadot & DeFi",
-        "timeing": "3:10 PM - 3:50 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "Custodians & Insurance",
-        "timeing": "3:50 PM - 4:30PM (EST)"
-     }, {
-        "id": 1,
-        "title": "NFT & Social Tokens",
-        "timeing": "4:30 PM - 5:10 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "Security",
-        "timeing": "5:10 PM - 5:50 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "Laws & Compliance",
-        "timeing": "5:50 - 6:30 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "Yield Farming & DeFi Strategies",
-        "timeing": "6:30 - 7:10 PM (EST)"
-     }, {
-        "id": 1,
-        "title": "Closing Remarks",
-        "timeing": "07:10 PM (EST)"
-     }
+  {
+    "id": 1,
+    "title": "DeFi Opening Keynote",
+    "timeing": "08:00 AM EST 05:00 AM PST"
+  },
+  {
+    "id": 1,
+    "title": "Decentralized Finance & DEX",
+    "timeing": "08:20 AM EST 05:20 AM PST",
+    "speakers": "Moderator: Mathias\nPanelists: Dennis , Amanda (SushiSwap), Felix Mago (Dash Next), Robert Miller(Fuse)"
+  },
+  {
+    "id": 1,
+    "title": "Research & DeFi",
+    "timeing": "09:00 AM EST 06:00 AM PST",
+    "speakers": "Keynote: Zeb Lelie (CyberCapital)"
+  },
+  {
+    "id": 1,
+    "title": " Governance & DeFi",
+    "timeing": "09:20 AM EST 06:20 AM PST",
+    "speakers": "Keynote: \nEliott Teissonniere (Governance Research Institute)"
+  },
+  {
+    "id": 1,
+    "title": "Privacy & DeFi",
+    "timeing": "09:40 AM EST  06:40 AM PST",
+    "speakers": "Jorn Erbguth (GDPR consultant)"
+  },
+  {
+    "id": 1,
+    "title": "Building Communities",
+    "timeing": "10:00 AM EST  07:00 AM PST",
+    "speakers": "Moderator: Mathias \nPanelists: Clayton Roche (UMA)"
+  },
+  {
+    "id": 1,
+    "title": "Decentralized ID",
+    "timeing": "10:30 AM EST  07:30 AM PST",
+    "speakers": "Moderator: Michelle\nPanelists: Tony Rose (MedCred), Eddie Kago (Vibranium), Adam Vaziri (Blockpass)"
+  },
+  {
+    "id": 1,
+    "title": "The Future of Stablecoin",
+    "timeing": "11:10 AM EST  08:10 AM PST",
+    "speakers": "Moderator: Kamal Hubbard (Author, Advisor & Civil Rights Officer)\nPanelists: Kory Hoang(Stably), Hyungsuk Kang (Standard), Mathias Abdissa (Santym)"
+  },
+  {
+    "id": 1,
+    "title": "Taxes & DeFi",
+    "timeing": "11:50 AM EST  08:50 AM PST",
+    "speakers": "Keynote:\nPatrick Larsen (Ledger Tax)"
+  },
+  {
+    "id": 1,
+    "title": "Investors & Investing",
+    "timeing": "12:10 PM EST  09:10 AM PST",
+    "speakers": "Moderator: Michelle\nPanelists: Miko Matsumura (Gumi Crypto Capital), Felix (Dash Next), Ali Madhavji (Blockchain Founders Fund ), Warren Lorenz(TechMeetsTrader)"
+  },
+  {
+    "id": 1,
+    "title": "DeFi vs CeFi",
+    "timeing": "12:50 PM EST  09:50 AM PST",
+    "speakers": "Moderator: Mathias\nPanelists: Felix (Dash Next), Richard Velasquez (Kanbee), Michael Stephan (Komet Capital), Peter Okwara (IOTA)"
+  },
+  {
+    "id": 1,
+    "title": "DeFi Market Making",
+    "timeing": "01:30 PM EST  10:30 AM PST",
+    "speakers": "Moderator: Mathias\nPanelists: Andrew Tu (Efficient Frontier), Joshua Baker (System 9)"
+  },
+  {
+    "id": 1,
+    "title": "DAOs & The Way We Collaborate",
+    "timeing": "02:10 PM EST  11:10 AM PST",
+    "speakers": "Moderator: Michelle\nPanelists: Clayton Roche (UMA), Tristan Roberts (Etherize.io), Thomas Cox (P2145)"
+  },
+  {
+    "id": 1,
+    "title": "Data Analytics",
+    "timeing": "02:50 PM EST  11:50 AM PST",
+    "speakers": "Moderator: Michelle\nPanelists: Ryan Hanley (Coinfirm)"
+  },
+  {
+    "id": 1,
+    "title": "Polkadot & DeFi",
+    "timeing": "03:10 PM EST  12:10 PM PST",
+    "speakers": "Alex Hatoum (IHS)"
+  },
+  {
+    "id": 1,
+    "title": "Custodians & Insurance",
+    "timeing": "03:50 PM EST  12:50 PM PST",
+    "speakers": "Moderator: Michelle\nPanelists: Álvaro Fernández Tenorio (Nsure Network), Rodrigo (PrimeTrust)"
+  },
+  {
+    "id": 1,
+    "title": "NFT & Social Tokens",
+    "timeing": "04:30 PM EST  01:30 PM PST",
+    "speakers": "Moderator: Michelle\nPanelists: Tsolmondorj Natsagdorj (Social Stack), Bryce Weiner (AltMarket), Chris Deschenes (Kalamint), Johan (Meme.com)"
+  },
+  {
+    "id": 1,
+    "title": "Security",
+    "timeing": "05:10 PM EST  02:10 PM PST ",
+    "speakers": "Moderator: Michelle\nPanelists: Olayinka Odeniran (CybSecWatch), Corey McCauley (Eight Meta), Jorn Erbguth (GDPR consultant) "
+  },
+  {
+    "id": 1,
+    "title": "Laws & Compliance",
+    "timeing": "05:50 PM EST  02:50 PM PST",
+    "speakers": "Moderator: Michelle\nPanelists: Pooja Sinha (Forte Law), Jor Law, Jorn Erbguth (GDPR consultant), Justin Newton (Netki)"
+  },
+  {
+    "id": 1,
+    "title": "Yield Farming & DeFi Strategies",
+    "timeing": "06:30 PM EST  03:30 PM PST",
+    "speakers": "Moderator: Michelle\nPanelists: Shimon Newman (Ratio Protocol), Samiar Tehrani (Ratio Protocol)"
+  },
+  {
+    "id": 1,
+    "title": "Closing Remarks",
+    "timeing": "07:10 PM EST  04:10 PM PST"
+  }
 ]
