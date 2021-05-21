@@ -926,7 +926,7 @@ p {
 	}
 }
 .breadcrumbs-area .ovent-overlay {
-	background: rgba(56, 19, 194, 0.9);
+	background: #1909567a;
 }
 .breadcrumbs-area .breadcrumbs-content h1 {
 	font-size: 80px;
@@ -1085,7 +1085,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: rgba(56, 19, 194, 0.9);
+	background-color: #1909567a;
 	z-index: -2;
 }
 .banner-area-v1 .scroll-btn {

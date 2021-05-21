@@ -86,19 +86,19 @@
         "id": 5,
         "img": "assets/images/trRo.jpg",
         "name": "Tristan Roberts",
-        "post": "Summoner @ Etherize.io",
+        "post": "Summoner of hybrid legal / decentralized entities",
         "shortdesc":"",
-        "htmldesc":"<h4>Tristan is a student of the problem of how to bridge real world jurisdictions with the many realms of the cryptoverse. He applies his lessons learned with Etherize, an entity formation company that is a mesh between Aragon DAO and Wyoming LLC.</h4><p></p>",
+        "htmldesc":"<h4></h4><p>Tristan's involvement in the crypto-anarcho BitNation lead him to pursue a deeper understanding of how DAOs could integrate with the existing legal jurisdictions. Aside from automating formation processes, he writes on decentralizing science through emerging knowledge markets.</p>",
         "social":[
 
           {
             "icon":"fab fa-twitter",
-            "url":"/",
+            "url":"https://twitter.com/aitherick",
             "title":"Twitter"
           },
           {
             "icon":"fab fa-linkedin-in",
-            "url":"/",
+            "url":"https://www.linkedin.com/in/tristan-roberts-932b2923/",
             "title":"Linked In"
           }
         ]
@@ -441,11 +441,11 @@
     },
     {
         "id": 21,
-        "img": "assets/images/shimon.png",
+        "img": "assets/images/samir.webp",
         "name": "Samiar Tehrani",
         "post": "Cofounder, Ratio Finance",
         "shortdesc":"",
-        "htmldesc":"<h4Platform and business developer. Building the future of collateralized based stable minting and permissionless asset management.</h4><p></p>",
+        "htmldesc":"<h4>Platform and business developer. Building the future of collateralized based stable minting and permissionless asset management.</h4><p></p>",
         "social":[
 
           {
