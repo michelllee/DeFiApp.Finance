@@ -568,7 +568,7 @@
     {
         "id": 28,
         "img": "assets/images/pat.png",
-        "name": "Pat Larsen",
+        "name": "Patrick Larsen",
         "post": "Cofounder and CEO ZenLedger.io",
         "shortdesc":"",
         "htmldesc":"<h4>Pat is the Cofounder and CEO of ZenLedger.io, a cryptocurrency tax and accounting startup</h4><p>Pat and his cofounder, Bryan Starbuck, launched ZenLedger in 2017 and now work with Big 4 accounting firms, thousands of tax professionals, and tens of thousands of cryptocurrency investors. Pat holds a BS in Materials Science Chemistry from the US Air Force Academy and a MBA from the University of Chicago Booth School of Business. Pat has worked at Amazon and investment banking. He was also a US Navy helicopter pilot.</p>",
@@ -582,6 +582,48 @@
           {
             "icon":"fab fa-linkedin-in",
             "url":"https://www.linkedin.com/in/patlarsen1/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 29,
+        "img": "assets/images/djj.jpg",
+        "name": "DJ Journey",
+        "post": "CREATIVE DIRECTOR, COMPOSER/DJ & GRAPHIC ARTIST. CO-FOUNDER OF  FORM-U.LA",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>SHAPING THE FUTURE OF TECHNOLOGY, MUSIC, GAMING & COMMUNITY BUILDING. \n\nFavorite emote: \uD83D\uDE80\nDiscography: \nhttps://open.spotify.com/artist/4usoKnEFArgnDYsq93Sal9?si=CTrX8WbDQFC5CK_iGViJmw\n\nBrand: https://solo.to/vibestreambeats</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 30,
+        "img": "assets/images/rod.jpg",
+        "name": "Rodrigo Vicuna",
+        "post": "CFO of Prime Trust",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p></p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/in/rodrigovicuna/",
             "title":"Linked In"
           }
         ]
