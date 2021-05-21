@@ -10,7 +10,7 @@ const routes: Routes = [
   { path: 'about', loadChildren: () => import('./components/pages/about/about.module').then(m => m.AboutModule), data: { breadcrumb: 'About Us' } },
   // Speakers
   { path: 'speakers', loadChildren: () => import('./components/pages/speakers/speakers.module').then(m => m.SpeakersModule), data: { breadcrumb: 'Speakers' } },
-  { path: 'speaker-details/:id', loadChildren: () => import('./components/pages/speaker-details/speaker-details.module').then(m => m.SpeakerDetailsModule), data: { breadcrumb: 'Speakers v2' } },
+  { path: 'speaker-details/:id', loadChildren: () => import('./components/pages/speaker-details/speaker-details.module').then(m => m.SpeakerDetailsModule), data: { breadcrumb: 'Speakers' } },
   // Events
   { path: 'event', loadChildren: () => import('./components/pages/event/event.module').then(m => m.EventModule), data: { breadcrumb: 'Event' } },
   { path: 'event-details/:id', loadChildren: () => import('./components/pages/event-details/event-details.module').then(m => m.EventDetailsModule), data: { breadcrumb: 'Event Details' } },

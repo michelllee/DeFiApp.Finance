@@ -1,4 +1,5 @@
-import { Component, OnInit, Input } from '@angular/core';
+import {Component, OnInit, Input} from '@angular/core';
+import {environment} from '../../../../environments/environment';
 
 @Component({
   selector: 'app-footer',
@@ -7,10 +8,14 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class FooterComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+  }
+
   @Input() layout: number | string | undefined;
   @Input() logo: number | string | undefined;
   @Input() bg: number | string | undefined;
+
+  registrationLink = environment.registerLink;
 
   ngOnInit(): void {
   }

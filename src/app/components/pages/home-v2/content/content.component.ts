@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import emailjs from 'emailjs-com';
+import {environment} from '../../../../../environments/environment';
 
 @Component({
   selector: 'app-content',
@@ -11,6 +12,7 @@ export class ContentComponent implements OnInit {
   constructor() { }
   public formResponse: string | any ;
   public formStatus: string | any;
+  public registrationLink = environment.registerLink;
   public sendEmail(e: Event) {
     e.preventDefault();
     var contactForm = <HTMLFormElement>document.getElementById('contact-form');

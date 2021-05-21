@@ -178,9 +178,9 @@
         "id": 6,
         "img": "assets/images/miMa.jpg",
         "name": "Miko Matsumura",
-        "post": "CEO",
+        "post": "Blockchain Investor & Startup Builder",
         "shortdesc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today.",
-        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "htmldesc":"<h4>Miko is a General Partner with Gumi Ventures, a US $30M investment fund focused early stage blockchain startups and a cofounder of crypto exchange Evercoin</h4><p>Miko fell in love with open source software 25 years ago as chief Evangelist for the Java Language and Platform at Sun Microsystems. Since then he has been building open source software startups in Silicon Valley including raising over $50 million in venture capital for developer platform companies such as Gradle and financial infrastructure companies like Hazelcast and has participated in multiple exits including INFRAVIO, webMethods, and Db4O. He is an advisor in successful startups like Celsius (CeFi Lending), Idle Finance (DeFi Yield Aggregator), Pundi X (Payments), and KEYLESS (ID infrastructure). He has been an investor with Focus Ventures, a firm with over $800M under management, 9 IPOs and 44 exits and blockchain firm Pantera Capital. He holds a Master’s degree in Neuroscience from Yale University where he worked on abstract computational neural networks. </p>",
         "social":[
             {
                 "icon":"fab fa-facebook-f",
@@ -316,11 +316,151 @@
     },
     {
         "id": 10,
-        "img": "assets/images/tn.png",
+        "img": "assets/images/tnn.jpg",
         "name": "Tsolmondorj Natsagdorj",
         "post": "CTO @trysocialstack Head Quant @safemoon Defi researcher@harmonyprotocol ",
         "shortdesc":"Serial Fintech Entrepreneur with 2 exits. Has consulted with Defense, Fortune 500, and multiple governments and banks in emerging markets.",
         "htmldesc":"<h4></h4><p>Serial Fintech Entrepreneur with 2 exits. Has consulted with Defense, Fortune 500, and multiple governments and banks in emerging markets.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "img": "assets/images/kh.jpg",
+        "name": "Kamal Hubbard",
+        "post": "Author | Advisor | Civil Rights Officer",
+        "shortdesc":"Author | Advisor | Civil Rights Officer",
+        "htmldesc":"Author | Advisor | Civil Rights Officer",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "img": "assets/images/ahu.jpg",
+        "name": "Alex Hatoum",
+        "post": "Managing Partner @ IHS",
+        "shortdesc":"Alex Hatoum is the Managing Director at Infinitum Humanitarian Systems (IHS), a private sector social business built on a profit-for-purpose model, and focused on global health and capacity building in the developing world. He is responsible for all international business initiatives, including business incubation management and overseas research support. Hatoum, a native speaker of English, Spanish, Portuguese and French, has traveled extensively throughout the Americas, working in both governmental and private sector positions.\n\nAfter an education in multiple countries that included a degree in International Business and in an extended program in International Security and Conflict Resolution at San Diego State University, he accepted a position with the US Marshals Service on their Violent Crimes Task Force.\n\nDuring those years Hatoum worked alongside the US military on a broad range of trans-boundary issues before accepting a commission from the United States Army. There he continued to work on issues relating to information flow across international boundaries. After seven years of decorated service, he left the Army to continue his education, completing a Master’s degree in Homeland Security. After graduation, he took an assignment with the US Office of National Drug Control Policy where he worked on several cross-border policy projects. \n\nAlex has been in the blockchain space since 2016 and specifically with Polkadot since 2018. In 2020 Alex became a Polkadot Ambassador.",
+        "htmldesc":"<h4>Alex Hatoum is the Managing Director at Infinitum Humanitarian Systems (IHS), a private sector social business built on a profit-for-purpose model, and focused on global health and capacity building in the developing world. He is responsible for all international business initiatives, including business incubation management and overseas research support. </h4><p>Hatoum, a native speaker of English, Spanish, Portuguese and French, has traveled extensively throughout the Americas, working in both governmental and private sector positions.\n\nAfter an education in multiple countries that included a degree in International Business and in an extended program in International Security and Conflict Resolution at San Diego State University, he accepted a position with the US Marshals Service on their Violent Crimes Task Force.\n\nDuring those years Hatoum worked alongside the US military on a broad range of trans-boundary issues before accepting a commission from the United States Army. There he continued to work on issues relating to information flow across international boundaries. After seven years of decorated service, he left the Army to continue his education, completing a Master’s degree in Homeland Security. After graduation, he took an assignment with the US Office of National Drug Control Policy where he worked on several cross-border policy projects. \n\nAlex has been in the blockchain space since 2016 and specifically with Polkadot since 2018. In 2020 Alex became a Polkadot Ambassador. </p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "img": "assets/images/olod.jpg",
+        "name": "Olayinka Odeniran",
+        "post": "Founder, CEO, CybSecWatch",
+        "shortdesc":"",
+        "htmldesc":"<h4>Olayinka is the founder and CEO of CybSecWatch, boutique governance, risk and compliance educational consulting firm. </h4><p>She brings more than 18 years of executive experience in risk management and compliance.   Olayinka is an insightful and forward-thinking expert with extensive experience ensuring fulfillment of firm policies, procedures and federal mandates governing compliance and cybersecurity.  Olayinka brings her driven/ innovative mindset to provide information assurance to help strengthen the enterprise cybersecurity landscape.  As a blockchain enthusiast Olayinka is involved in several blockchain projects promoting women and minorities in tech and has co-founder Black Women Blockchain Council, a benefit LLC promoting black women in blockchain, fintech and future technologies.  In her spare time, Olayinka writes for various publications and has also been a speaker at various conferences on regulations, cybersecurity and blockchain. Olayinka holds a M. Sc in Cybersecurity Management and Policy from the University of Maryland Global College and a BA from Boston University.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/",
+                "title":"Facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/",
+                "title":"Twitter"
+            },
+            {
+                "icon":"fab fa-behance",
+                "url":"/",
+                "title":"Behance"
+            },
+            {
+                "icon":"fab fa-youtube",
+                "url":"/",
+                "title":"Youtube"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/",
+                "title":"Linked In"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "img": "assets/images/adv.jpg",
+        "name": "Adam Vaziri",
+        "post": "CEO, Blockpass",
+        "shortdesc":"",
+        "htmldesc":"<h4>Adam is the founder and CEO of Blockpass - a self sovereign identity application for regulated industries.</h4><p>Adam Vaziri's background is as a blockchain lawyer and set up Diacle in 2013 to assist blockchain projects with compliance. Adam has worked on the development of regulations in crypto in the early days in 2013 onwards. He was the first lawyer specialised in crypto in 2013. Adam believes that Web3.0 will bring blockchain to the mainstream but that regtech is required. Adam is Technical Author of the British Standards Institution standard on security tokens PAS19668:2020. Adam co-founded the UK Digital Currency Association and cofounded bitlegal.io which was at the time the most renowned tracker for the legal status of bitcoin (as featured by CNN and Washington Post). Adam also set up the first bitcoin hackathon in the UK and India labelled HackCoin. Adam has been involved in the development of standards for crypto-assets. He co-founded a fund called QRC to invest in regtech businesses and develop standards. QRC collaborated with the University of Malaya in the development of legal research into aspects of crypto-assets. QRC sponsored the development of a data standard for Security Tokens and Adam was the Technical Author of the same.</p>",
         "social":[
             {
                 "icon":"fab fa-facebook-f",

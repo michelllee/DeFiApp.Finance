@@ -34,15 +34,16 @@
                             <div class="event-info">
                                 <div class="row">
                                     <div class="col-lg-8">
-                                        <h3><a routerLink="/event-details/{{item.id}}">{{item.title}}</a></h3>
+                                        <h3>{{item.title}}</h3>
                                         <div class="post-meta">
                                             <span class="tag">
-                                                <i class="fal fa-tags"></i>
-                                                <a href="#" *ngFor="let cat of getCategory(item.category) | slice:0:2">{{cat.title}},</a>
+                                                <i class="fal fa-clock"></i>
+                                                <a href="#">{{item.timeing}}</a>
+<!--                                                <a href="#" *ngFor="let cat of getCategory(item.category) | slice:0:2">{{cat.title}},</a>-->
                                             </span>
-                                            <span class="user" *ngFor="let user of getOrganiser(item.organiser)">
+                                            <span *ngIf="item.speakers!=undefined" class="user">
                                                 <i class="fal fa-users"></i>
-                                                <a href="#">{{user.name}}</a>
+                                                <a  href="#">{{item.speakers}}</a>
                                             </span>
                                         </div>
                                     </div>
