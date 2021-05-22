@@ -46,7 +46,7 @@
         "name": "Corey Mccauley",
         "post": "Eight Meta",
         "shortdesc":"",
-        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "htmldesc":"<h4></h4><p>Corey Mccauley is an  Cofounder of \nEightMeta and speaker. He has over 10 plus years of tech experience from military service combined with cybersecurity, investigations and blockchain consulting.\nHe started in the blockchain community in 2017 as an advisor and investor. He's passionate about the blockchain ecosystem and is speaker on multiple topics such as privacy, security, mining, mental health, traveling and much more. Additionally he is a consultant at CyberMindfulSolutions.com & Blocktech Atlanta.</p>",
         "social":[
 
           {
@@ -319,7 +319,7 @@
         "name": "Pooja Sinha",
         "post": "Attorney at Law, Forte Law LL",
         "shortdesc":"",
-        "htmldesc":"<h4>\"BigLaw\" experience at Clifford Chance, Linklaters and O’Melveny across London and Singapore</h4><p>Versatile experience cutting across general finance, debt restructuring, corporate & commercial, in-house advisory and investment fund formations. Guided start-ups on their licensing and fundraising strategies. including in the digital token space.\n\n-Corporate finance specialist experienced in large banking, capital markets and debt restructuring transactions for corporates, i-banks, sovereign wealth funds and other financial market intermediaries.\n\n-Closed 100+ transactions in the US, Europe and Asia in the course of my career including several first-of-its-kind transactions.\n\n-Hold leadership roles in global, professional associations- I'm the Asia Networks Director of IWIRC and the only Singapore-based practitioner on INSOL’s Technical Committee 2019-2021.</p>",
+        "htmldesc":"<h4>Pooja is an international lawyer based in Singapore. She is an Associate Director (Registered Foreign Lawyer) at Singapore law firm Forte Law LLC.</h4><p>She is a corporate finance specialist with the unique ability to advise clients in both the traditional and new age economy. She has closed 100+ transactions in the US, Europe and Asia in the course of her 20+ career including several first-of-its-kind transactions.\n \nHer new age experience includes guiding technology-enabled businesses on a range of matters from their regulatory licensing strategy, contractual risk mitigation strategy and fundraising through both the traditional and new age routes. \nShe has a wide range of experience within the digital economy having advised on everything from ICOs, STOs, IEOs and most recently, NFTs. She has also advised on the set-up of investment funds in the digital token space. \n\nShe also holds a number of compliance-related certifications – the International Compliance Association's Advanced Certificate in Governance, Risk and Compliance, the PDPC’s Practitioner Certificate in Personal Data Protection and the CIPP (Asia) and the CIPM certifications from the International Association of Privacy Professionals. \n \nPooja has spoken extensively on legal and regulatory issues at panel events within the blockchain industry.  Recently, she has also started penning down her thoughts on the inerplay between the traditional and the new age economy on Medium under the handle sinha-pooja.</p>",
         "social":[
 
           {
@@ -656,6 +656,69 @@
         "post": "Board Director, Prime Trust  &\nConsultant, tZERO/VerifyInvestor.com",
         "shortdesc":"",
         "htmldesc":"<h4></h4><p>An entrepreneur who has successfully built and exited his own startup, Jor combines his\nexperience as a corporate/securities attorney, tech investor, startup founder, and product\nmanager to bring additional depth to management teams. Jor has been a pioneer in developing\nfintech infrastructure and payment solutions for the crypto industry as well as creating the\necosystem for digitizing and trading securities on the blockchain and other distributed ledger\ntechnologies. In this capacity, he has helped build products and business units for some of the\nmost prominent companies in the space.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 33,
+        "img": "assets/images/bv.jpg",
+        "name": "Bharat Verma",
+        "post": "CEO at Derived @derivedFi",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Serial Entrepreneur with over 11 years of multi-dimensional experience background in Software Development, Biz Dev, Law, Real Estate and Marketing. Holds triple degrees in Computer Science Engineering, a Masters degree in Business and Management from the UK and a Bachelors of Law degree with honors. Blockchain investor since early 2017 and have worked with multiple projects in the space.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 34,
+        "img": "assets/images/robert.jpg",
+        "name": "Robert Miller",
+        "post": "Marcom Director at Fuse",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Robert Miller is a growth consultant and heads up marketing and communications at Fuse, a payment-centric blockchain project that builds plug ’n’ play business solutions designed to allow anyone to take part in creating the economies of tomorrow. \n\nHaving started his career in enterprise technology over 10 years a go, he now has over 5 years experience within blockchain and crypto having worked with Komodo Platform, Cointelegraph and other reputable names.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 35,
+        "img": "assets/images/aal.jpg",
+        "name": "Johan Unger",
+        "post": "Ancient Alien, Meme.com",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Entrepreneur in online publishing for 10 years. Previously co-founder of Strossle, a top 20 growth startups in Europe. Started Meme.com (then Marble.Cards) in 2018.</p>",
         "social":[
 
           {
