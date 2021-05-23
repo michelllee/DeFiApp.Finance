@@ -317,7 +317,7 @@
         "id": 16,
         "img": "assets/images/pj.jpg",
         "name": "Pooja Sinha",
-        "post": "Attorney at Law, Forte Law LL",
+        "post": "Attorney at Law, Forte Law LLC",
         "shortdesc":"",
         "htmldesc":"<h4>Pooja is an international lawyer based in Singapore. She is an Associate Director (Registered Foreign Lawyer) at Singapore law firm Forte Law LLC.</h4><p>She is a corporate finance specialist with the unique ability to advise clients in both the traditional and new age economy. She has closed 100+ transactions in the US, Europe and Asia in the course of her 20+ career including several first-of-its-kind transactions.\n \nHer new age experience includes guiding technology-enabled businesses on a range of matters from their regulatory licensing strategy, contractual risk mitigation strategy and fundraising through both the traditional and new age routes. \nShe has a wide range of experience within the digital economy having advised on everything from ICOs, STOs, IEOs and most recently, NFTs. She has also advised on the set-up of investment funds in the digital token space. \n\nShe also holds a number of compliance-related certifications – the International Compliance Association's Advanced Certificate in Governance, Risk and Compliance, the PDPC’s Practitioner Certificate in Personal Data Protection and the CIPP (Asia) and the CIPM certifications from the International Association of Privacy Professionals. \n \nPooja has spoken extensively on legal and regulatory issues at panel events within the blockchain industry.  Recently, she has also started penning down her thoughts on the inerplay between the traditional and the new age economy on Medium under the handle sinha-pooja.</p>",
         "social":[
@@ -345,12 +345,12 @@
 
           {
             "icon":"fab fa-twitter",
-            "url":"/",
+            "url":"https://twitter.com/alvarokoke27",
             "title":"Twitter"
           },
           {
             "icon":"fab fa-linkedin-in",
-            "url":"/",
+            "url":"https://linkedin.com/in/alvaro-fern%C3%A1ndez-576b3489",
             "title":"Linked In"
           }
         ]
@@ -719,6 +719,69 @@
         "post": "Ancient Alien, Meme.com",
         "shortdesc":"",
         "htmldesc":"<h4></h4><p>Entrepreneur in online publishing for 10 years. Previously co-founder of Strossle, a top 20 growth startups in Europe. Started Meme.com (then Marble.Cards) in 2018.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 36,
+        "img": "assets/images/us.jpg",
+        "name": "Usman Majeed",
+        "post": "Founder & CEO, GooseFX",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Usman Majeed is the Founder/CEO at GooseFX, a full suite DeFi platform built on Solana implementing P2P yield farming, tokenized stocks, and derivatives trading. He also founded Quantum Labs which is an automated trading firm for automated directional, market making, and arbitrage bots. Usman has years of experience in algorithmic trading, Web3 dev, and mining operations.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 37,
+        "img": "assets/images/thomas.jpg",
+        "name": "Thomas Cox",
+        "post": "CEO of DLTGov.io",
+        "shortdesc":"",
+        "htmldesc":"<h4>Thomas Cox is a systems integrator of the best ideas in the world for solving the problems of cooperation at any scale – from workplace teams to global collectives.</h4><p>Thomas helps enterprise clients working on blockchain cooperation through DLT Governance Solutions (DLTgov.io). He chairs IEEE P2145 \"Blockchain Governance Standards\".\n\nHe helps individuals and workplace teams through Eudae LLC via his Becoming a Best Boss training and coaching practice.\n\nThomas graduated from the University of Chicago, earning his four-year degree in three years with honors. He’s worked with or for IBM, Oracle, PwC, Intel, and dozens of other firms large and small. He lives in the Pacific Northwest of the United States with his wife Tess.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 38,
+        "img": "assets/images/march.jpg",
+        "name": "March Zheng",
+        "post": "Global Communications Director, Standard",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>March began investing in the blockchain industry in late 2016, when he discovered Ethereum and Bitcoin. March offers a unique investment perspective that incorporates advanced understanding of Eastern and Western cultures. March’s residency in China has proven invaluable to Bizantine’s success, providing eyes on the ground of cryptocurrency’s largest market, as Asian sentiment has more market power than American sentiment in driving short-term trends. Despite Bizantine’s focus on long-term trends, short-term movements must be understood in order to continue to hold conviction in long-term investments.  March graduated from Washington and Lee University with a B.A. in Economics and East Asian Studies.</p>",
         "social":[
 
           {
