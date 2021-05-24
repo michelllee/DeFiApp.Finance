@@ -613,7 +613,7 @@
         "name": "Rodrigo Vicuna",
         "post": "CFO of Prime Trust",
         "shortdesc":"",
-        "htmldesc":"<h4></h4><p></p>",
+        "htmldesc":"<h4></h4><p>Rodrigo Vicuna is the Chief Financial Officer at Prime Trust. Rodrigo has over ten years of experience at the intersection of financial services and technology. Prior to Prime Trust, Rodrigo was the CFO of BitGo, one of the world’s largest digital asset custodians. Rodrigo also worked at the Boston Consulting Group, where he focused on the digitalization of legacy capital markets infrastructure and service providers. He co-authored BCG's global perspective on emerging FinTech trends and potential opportunities for traditional finance to innovate. He also led the modernization of consumer loans for one of Chile's largest banks. Rodrigo guest lectures for Carnegie Mellon University's Chief Risk Officer and Chief Information Security Officer executive education programs. Rodrigo holds a bachelor's degree in economics with an emphasis in accounting from UCLA and an MBA from the Wharton School at the University of Pennsylvania.</p>",
         "social":[
 
           {
@@ -792,6 +792,27 @@
           {
             "icon":"fab fa-linkedin-in",
             "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 39,
+        "img": "assets/images/shrey.jpg",
+        "name": "Shreyansh Singh",
+        "post": "NFT & Gaming Lead, Polygon",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Shreyansh Singh has been an integral part of Polygon since 2 years, growing the NFT and Gaming ecosystem from scratch and has worked with innovative teams like Zed Run, Megacryptopolis etc. He is also a  Metaverse Degen who loves discovering the future of metaverses.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"https://twitter.com/shreyansh_27",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/feed/",
             "title":"Linked In"
           }
         ]
