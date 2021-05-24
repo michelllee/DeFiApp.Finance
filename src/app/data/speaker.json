@@ -67,7 +67,7 @@
         "name": "Eliott Teissonniere",
         "post": "Cofounder, Governance Research Institute",
         "shortdesc":"",
-        "htmldesc":"<h4>Postgraduate research with us offers the opportunitype to contribute our leading edge research.</h4><p>Teaching and writing are two sides of a priceless coin. Writers historically have used the classroom as a place to supplement their income while also maintaining some sort of public-facing career. And with more and more people of all ages and education levels turning toward remote learning.</p>",
+        "htmldesc":"<h4></h4><p>Eliott Teissonniere is a polymath, engineer and entrepreneur. He used to be the CTO of BitNation, a governance and crypto company which was rewarded by the NetExplo prize from UNESCO in 2017, made the world’s first marriage dApp on Ethereum and leads Nodle's Blockchain and Engineering teams for which he co-invented various pending and granted patents. He was featured in various medias for his work on decentralized governance and blockchains such as Decrypt, CoinTelegraph and CoinDesk; and spoke at various high profile events such as the Paris Blockchain Week, the Stanford Blockchain Conference and presented in front of the European commission with past European deputies on the subject of Covid-19 tracing via the Blockchain. He is a mentor at the Berkeley Blockchain Accelerator and advises various crypto and technology startups via his company Nuclei Studio. He cofounded in 2020 the Governance Research Institute to research new governance models for companies, communities and governments.</p>",
         "social":[
 
           {
@@ -813,6 +813,108 @@
           {
             "icon":"fab fa-linkedin-in",
             "url":"https://www.linkedin.com/feed/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 40,
+        "img": "assets/images/hon.jpg",
+        "name": "Hon. Ben Bartlett",
+        "post": "Hon. Ben Bartlett",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Berkeley City Councilmember and Fmr. Vice Mayor Ben Bartlett is a nationally recognized policy leader. Ben has authored and passed more than 60 measures focused on innovation, opportunity, and inclusion. \nBen is a member of the State of California Blockchain Working Group and is working to integrate government and Blockchain through public finance, currencies, and data markets.\n\nBen is architect of Berkeley’s Microbond offering using blockchain technology to issue bonds and executed the first compliant crypto cannabis transaction. Ben is author of the Smart Path Blockchain investment and policy thesis. Professionally, Ben is a partner in Tackett Bartlett LLP where he provides counsel for Blockchain entrepreneurs, governments, funds, and businesses.</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 41,
+        "img": "assets/images/saha.jpg",
+        "name": "Sahabia Yakubu",
+        "post": "African ambassador for MakerDAO & Cryptolocally, and founder of DeFi Africa",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Sahabia Yakubu: a Ghanaian-born and based cryptocurrency promoter, writer and speaker. Currently, African ambassador for MakerDAO & Cryptolocally, and founder of DeFi Africa</p>",
+        "social":[
+
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 42,
+        "img": "assets/images/peter.jpg",
+        "name": "Peter Danihel",
+        "post": "Co-Founder, Sigmadex",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p></p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 43,
+        "img": "assets/images/chris.jpg",
+        "name": "Chris Deschenes",
+        "post": " Director of Operations, Kalamint",
+        "shortdesc":"",
+        "htmldesc":"<h4>Chris Deschenes, the Director of Operations at Kalamint is a South Carolina resident, a former Marine of the US Armed Forces, a graduate of the EBV program at Syracuse University in New York and an entrepreneur at heart.</h4><p>After completing two back-to-back combat tours to the Middle East, Chris embarked on his entrepreneurial journey as a SDVOSB (Service-Disabled Veteran Owned Small Business) owner. Having seen the need for a financially borderless world during his deployments, Chris fell in love with the idea of cryptocurrency after being introduced to it by a friend. As an early adopter in the blockchain space, he brings his years of experience as a strategist, thinker and an executor for Kalamint as the Director of Operations.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 44,
+        "img": "assets/images/Bryce.jpg",
+        "name": "Bryce Weiner",
+        "post": "CEO, Tao Records & CTO, AltMarket",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Bryce started as a drive time FM disc jockey on a small market radio station in the Midwest before embarking on a 15 year career as a Fortune 500 software developer for firms such as Thomson Reuters and Lockheed Martin. Beginning his blockchain engineering career in 2012 by building his own Bitcoin mining farm and now with over a dozen blockchain networks to his credit (several are currently publicly traded), Bryce is one of the most experienced blockchain engineers in the industry. He has been frequently consulted by financial institutions, news organizations, and courts of law for his irreverent and sometimes controversial views of blockchain technology, its implementation, and its potential. Bryce is CEO of Tao Records, founder of the Tao Network, a public blockchain network specifically tailored to suit the needs of music industry applications, and CTO of US based cryptocurrency exchange AltMarket, Inc.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
             "title":"Linked In"
           }
         ]
