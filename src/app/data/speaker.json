@@ -985,7 +985,7 @@
         "name": "Ryan Hanley",
         "post": "Director of Partnerships, Coinfirm",
         "shortdesc":"",
-        "htmldesc":"<h4></h4><p></p>",
+        "htmldesc":"<h4></h4><p>Ryan is the Director of Partnerships at Coinfirm helping VASP’s, banks and government agencies better understand cryptocurrency AML and Counter Terrorism risk through powerful analytics and on-chain intelligence. \nCurrently accelerating the adoption of DeFi by FI’s through a pioneering solution giving greater clarity of AML & CT risk across liquidity pools. \nRyan holds advisory roles with Qredo.com & Devv.io and frequently hosts podcasts for the London based Crypto Curry Club. While MD of TokenMarket, a leading technology platform for the issuance of digital assets and securities on the blockchain, he selected and helped 31 projects raise over $350m via the platform, distributing tokens to 250,000+ investors.</p>",
         "social":[
           {
             "icon":"fab fa-twitter",
@@ -1021,7 +1021,7 @@
     },
     {
         "id": 50,
-        "img": "assets/images/felix.jpg",
+        "img": "assets/images/flx.jpg",
         "name": "Felix Mago",
         "post": "Cofounder, Dash NEXT",
         "shortdesc":"",
@@ -1046,6 +1046,66 @@
         "post": "Co-founder, Immunefi",
         "shortdesc":"",
         "htmldesc":"<h4></h4><p>Travin Keith is a Co-Founder of Immunefi, the largest bug bounty platform focused on cryptocurrency projects such as those around decentralized finance (DeFi). Immunefi has over $1.7 million dollars in bug bounties paid out in just 6 months and holds the record for having one of the largest single bug bounty payouts at USD 800 000. The platform currently has prevented over $1bn in economic damage so far and currently has over $23 million in rewards available and is open to anyone to get started, find bugs, build rep, and get paid. \n\nIn addition to Immunefi, Travin has an extensive background and range of experiences from having lived in eight countries across four continents. These experiences include large open source related projects like co-authoring the white paper of Hyperledger, a Linux Foundation project, providing technical architecture to the European Commission’s Blockchain4EU project, writing for the Open Source Initiative, and developing informational material to the 4T-DLT initiative of Digital Switzerland. It also includes startups like co-founding STOKR, an STO platform on Ethereum and the Liquid Network by Blockstream and many other smaller open source projects. He has also been involved with educational projects around blockchain and crypto at ETH Zurich, such as BIOTS and BETH, and has been a regular public speaker, including at the annual Hackers’ Congress in Prague, Consensus by CoinDesk, Open Source Summit: Europe, and the Open Source Leadership Summit.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"https://twitter.com/TravinKeith",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://linkedin.com/in/TravinKeith",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 52,
+        "img": "assets/images/hoffman.jpg",
+        "name": "Steve Hoffman",
+        "post": "Captain & CEO, Founders Space",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Steve Hoffman, or Captain Hoff as he’s called in Silicon Valley, is the Captain & CEO of Founders Space, one of the world’s leading startup accelerators. He’s also a venture investor, serial entrepreneur, and author of several award-winning books. These include “Make Elephants Fly” (published by Hachette) and “Surviving a Startup” (published by HarperCollins).\n \nHoffman was founder and Chairman of the Producers Guild Silicon Valley Chapter, served on the Board of Governors of the New Media Council, and was a founding member of the Academy of Television’s Interactive Media Group.\nWhile in Hollywood, Hoffman worked as a TV development executive at Fries Entertainment, known for producing over a hundred TV shows, acquired by MGM. He went on to pioneer interactive television with his venture-funded startup Spiderdance, which produced interactive TV shows with NBC, MTV, Turner, Warner Brothers, History Channel, Game Show Network, and others.\nIn Silicon Valley, Hoffman founded two more venture-backed startups, in the areas of games and entertainment, and worked as Mobile Studio Head for Infospace, with such hit mobile games as Tetris, Wheel of Fortune, Tomb Raider, Thief, Hitman, Skee-Ball, and X-Files.\n \nHoffman went on to launch Founders Space, with the mission to educate and accelerate entrepreneurs. Founders Space has become one of the top startup accelerators in the world. Hoffman has trained hundreds of startup founders and corporate executives in the art of innovation and provided consulting to many of the world’s largest corporations, including Qualcomm, Huawei, Bosch, Intel, Disney, Warner Brothers, NBC, Gulf Oil, Siemens, and Viacom.\nHoffman earned a bachelor’s degree in computer engineering from the University of California and a master’s degree in film and television from the University of Southern California. He currently resides in San Francisco but spends most of his time in the air, visiting startups, investors, and innovators all over the world.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"https://twitter.com/foundersspace",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/in/foundersspace/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 53,
+        "img": "assets/images/andrew.jpg",
+        "name": "Andrew Tu",
+        "post": "Business Development, Efficient Frontier",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Andrew Tu is a business development manager at Efficient Frontier, a crypto algorithmic trading and market making firm trading $150-200M every day. He first entered the crypto space in 2014 when he joined the Bitcoin Association of Berkeley, which became Blockchain at Berkeley in 2016. While at Berkeley, he partnered with some friends to form Partial f, an early DeFi synthetics startup. He later joined EF as an early employee in 2019 and now co-leads the DeFi arm of the firm.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 54,
+        "img": "assets/images/louK.jpg",
+        "name": "Lou Kerner",
+        "post": "Partner, Blockchain Coinvestors &\nHead Crypto Analyst, Quantum Economics",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Lou Kerner is Partner at Blockchain Coinvestors, a leading crypto fund-of-fund that also invests directly in crypto companies. Lou is also the Head Crypto Analyst at Quantum Economics, a leading \nCrypto advisory firm. Lou has been a Crypto enthusiast, investor, and thought leader since 2013, when the \nWall Street Journal called Lou “Wall Street’s Bitcoin Expert”. Lou regularly hosts conference calls with \nCrypto industry innovators attended by hundreds of Crypto enthusiasts and investors from around the world. \nLou is ranked among the most influential Crypto bloggers on Medium, regularly keynotes major Crypto industry events, and often appears on TV or in print talking about Crypto. \nPreviously, Lou was a Founding Partner of CryptoOracle, a VC focused on building, growing, and engaging \ndecentralized communities. At CryptoOracle, Lou started CryptoMondays, one of the largest crypto Meetup \ngroups in the world, with chapters in over 50 cities. \nPrior to CryptoOracle, Lou was a Partner at the decentralized VC, Flight, where he managed The Israel \nFounders Syndicate. Prior to Flight, Lou was the Managing Partner of The Social Internet Fund (SIF), which \ninvested in shares of rapidly growing tech companies. Prior to SIF, Lou was an angel investor, best known \nfor investing in Facebook and writing the first Wall Street style research report on the company in 2010. Before angel investing, Lou ran two digital companies, Bolt (the largest social network before MySpace), \nand .tv, which commercialized the top-level domain (.tv) licensed from the tiny island nation of Tuvalu. .tv \nwas acquired by Verisign. Prior to .tv, Lou had a distinguished career as an equity analyst following media \nand tech companies for Goldman Sachs and Merrill Lynch.\nLou has a B.A. from U.C.L.A. and an MBA from The Stanford Graduate School of Business.</p>",
         "social":[
           {
             "icon":"fab fa-twitter",

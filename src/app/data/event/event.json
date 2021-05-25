@@ -2,13 +2,14 @@
   {
     "id": 1,
     "title": "DeFi Opening Keynote",
-    "timeing": "08:00 AM EST 05:00 AM PST"
+    "timeing": "08:00 AM EST 05:00 AM PST",
+    "speakers": "Speaker: Lou Kerner (Blockchain Coinvestors & Quantum Economics)"
   },
   {
     "id": 1,
     "title": "Decentralized Finance & DEX",
     "timeing": "08:20 AM EST 05:20 AM PST",
-    "speakers": "Moderator: Mathias\nPanelists: Dennis , Amanda (SushiSwap), Felix Mago (Dash Next), Robert Miller(Fuse)"
+    "speakers": "Moderator: Mathias\nPanelists: Amanda (SushiSwap), Felix Mago (Dash Next), Robert Miller(Fuse), Sahabia Yakubu (MakerDAO)"
   },
   {
     "id": 1,
@@ -32,7 +33,7 @@
     "id": 1,
     "title": "Building Communities",
     "timeing": "10:00 AM EST  07:00 AM PST",
-    "speakers": "Moderator: Mathias \nPanelists: Clayton Roche (UMA), March Zheng (Standard)"
+    "speakers": "Moderator: Mathias \nPanelists: Clayton Roche (UMA), March Zheng (Standard), Steve Hoffman (Founders Space)"
   },
   {
     "id": 1,
@@ -92,7 +93,7 @@
     "id": 1,
     "title": "Custodians & Insurance",
     "timeing": "03:50 PM EST  12:50 PM PST",
-    "speakers": "Moderator: Michelle\nPanelists: Álvaro Fernández Tenorio (Nsure Network), Rodrigo Vicuna (PrimeTrust)"
+    "speakers": "Moderator: Michelle\nPanelists: Álvaro Fernández Tenorio (Nsure Network), Rodrigo (PrimeTrust), Travin Keith (Immunefi)"
   },
   {
     "id": 1,

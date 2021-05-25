@@ -20,7 +20,7 @@
                     <div [innerHtml]="item.htmldesc" style="white-space: pre-line;"></div>
                     <ul>
                         <li *ngFor="let item of item.social">
-                            <a [href]="item.url">
+                            <a [href]="item.url" target="_blank">
                                 <i [class]="item.icon"></i>
                             </a>
                         </li>
