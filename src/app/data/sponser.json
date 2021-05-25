@@ -78,5 +78,10 @@
         "id": 4,
         "img": "assets/images/cc.jpg",
         "title": "Cyber Capital"
+    },
+    {
+        "id": 4,
+        "img": "assets/images/gumi.png",
+        "title": "Gumi"
     }
 ]

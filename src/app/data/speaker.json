@@ -918,5 +918,145 @@
             "title":"Linked In"
           }
         ]
+    },
+    {
+        "id": 45,
+        "img": "assets/images/justinG.jpg",
+        "name": "Justin Goro",
+        "post": "Founder and Lead Developer @ Beholder",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p></p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 46,
+        "img": "assets/images/ravin.jpg",
+        "name": "Ravin Dave",
+        "post": "Creative Executive, FORM-U.LA",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Ravin is a creative executive with 20+ years of entertainment and 10+ years of integrated marketing communication, and strategic brand building experience.\n\nFocused on developing a sustainable model for an independent creative career. \n\nCurrently hosts weekly VR Eight Meta parties as a performing NFT artist, and is the Creative Director of Weed Cellars.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"https://twitter.com/Ravin_Dave",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/in/diannone/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 47,
+        "img": "assets/images/brent.jpg",
+        "name": "Brent Powell",
+        "post": "Cofounder, Eight Meta",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Brent brings over 23 years of executive level recruiting experience to the team. Brent’s previous experience includes serving as a Head of Talent Acquisition for a global venture capital fund, building early stage startups, and serving seed to mid-stage startups as a retained recruitment leader. In addition to managing the Talent Acquisition team, Brent handles projects across all sectors and and is involved in setting strategies for all skill areas.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 48,
+        "img": "assets/images/ryanH.jpg",
+        "name": "Ryan Hanley",
+        "post": "Director of Partnerships, Coinfirm",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p></p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"https://twitter.com/ryandhanley",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/in/rhanley/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 49,
+        "img": "assets/images/chester.jpg",
+        "name": "Chester Bella",
+        "post": "Co-founder, ETHA Lend",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Chester Bella is a Product Developer & Co-founder of ETHA Lend. He has ventured into the blockchain space since 2013 and has extensive experience in banking and in the fintech sector. During his explorations of the broader Defi space, he quickly realized that identifying the optimal yields becomes intimidating for the average user, in two domains -- It is hard to understand and hard to execute. He developed with his team a protocol that leverages innovative tools including an intelligent discovery algorithm to make the yield optimization simple and elegant for the average user, irrespective of their history and experiences with the Defi space.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"https://www.linkedin.com/in/chesterbella/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 50,
+        "img": "assets/images/felix.jpg",
+        "name": "Felix Mago",
+        "post": "Cofounder, Dash NEXT",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p></p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 51,
+        "img": "assets/images/travin.png",
+        "name": "Travin Keith",
+        "post": "Co-founder, Immunefi",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Travin Keith is a Co-Founder of Immunefi, the largest bug bounty platform focused on cryptocurrency projects such as those around decentralized finance (DeFi). Immunefi has over $1.7 million dollars in bug bounties paid out in just 6 months and holds the record for having one of the largest single bug bounty payouts at USD 800 000. The platform currently has prevented over $1bn in economic damage so far and currently has over $23 million in rewards available and is open to anyone to get started, find bugs, build rep, and get paid. \n\nIn addition to Immunefi, Travin has an extensive background and range of experiences from having lived in eight countries across four continents. These experiences include large open source related projects like co-authoring the white paper of Hyperledger, a Linux Foundation project, providing technical architecture to the European Commission’s Blockchain4EU project, writing for the Open Source Initiative, and developing informational material to the 4T-DLT initiative of Digital Switzerland. It also includes startups like co-founding STOKR, an STO platform on Ethereum and the Liquid Network by Blockstream and many other smaller open source projects. He has also been involved with educational projects around blockchain and crypto at ETH Zurich, such as BIOTS and BETH, and has been a regular public speaker, including at the annual Hackers’ Congress in Prague, Consensus by CoinDesk, Open Source Summit: Europe, and the Open Source Leadership Summit.</p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
     }
 ]
