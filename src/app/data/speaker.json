@@ -1118,5 +1118,45 @@
             "title":"Linked In"
           }
         ]
+    },
+    {
+        "id": 55,
+        "img": "assets/images/joshL.png",
+        "name": "Joshua Lapidus",
+        "post": "Membership Steward, Opolis &\nCo-Founder, Pool-Party & \nMeta Steward, ETHDenver &\nSummoner, ChessDAO",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>Joshua Lapidus is the Membership Steward at Opolis, Co-Founder of Pool-Party, Meta Steward of ETHDenver, and Summoner of ChessDAO, where he serves as the DAOplomat to UberHaus. He works primarily on \"Future of Work\" type things in the DeFi-DAO space. Formerly of ConsenSys and Lyft. </p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"http://www.twitter.com/0xJoshuaSL",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"http://www.linkedin.com/in/JoshuaLapidus",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 56,
+        "img": "assets/images/kory.jpg",
+        "name": "Kory Hoang",
+        "post": "Co-Founder & CEO, Stably",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p></p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
     }
 ]

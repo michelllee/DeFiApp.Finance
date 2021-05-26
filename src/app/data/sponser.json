@@ -83,5 +83,15 @@
         "id": 4,
         "img": "assets/images/gumi.png",
         "title": "Gumi"
+    },
+    {
+        "id": 4,
+        "img": "assets/images/efront.png",
+        "title": "efront"
+    },
+    {
+        "id": 4,
+        "img": "assets/images/stably.png",
+        "title": "stably"
     }
 ]
