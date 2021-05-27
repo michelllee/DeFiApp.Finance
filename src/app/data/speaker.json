@@ -634,7 +634,7 @@
         "name": "Tony Rose",
         "post": "CEO & Founder @ProofMarket.io",
         "shortdesc":"",
-        "htmldesc":"<h4>Online Identity is broken. In fact, it was never designed as part of the Internet in the first place.</h4><p>This is why I founded ProofMarket and started building next generation digital identity applications. We developed MedCreds, one of the worlds first medical wallets to provide to patients the portability of medical data. By owning digital health records, patients have more choice in how they obtain care.\n\nProof Market is known for our innovation in Digital Identity. We introduced the worlds first legislation to recognize next generation Digital Identity (CA AB 2004). We also lead working groups within the Linux Foundation, and the Sovrin Foundation, developing governance frameworks for digital trust.\n\nI am a passionate founder with a thirst for applying new technology to solve real world problems. My first e-mail account changed my life, exchanging ideas with top mathematics professors around the world opened doors I never knew existed. I want to bring the same benefit the Internet gave me, to the world with my work — this is what drives me to study emerging technology and build innovative products.\n\nA few highlights from my experience;\n- As the founder and CEO of Drop In Media, our team innovated Multimedia News Alerts and we operated this business for Verizon Wireless, T-Mobile, and many other Telcos.\n- At Vantiv, I lead the launch Apple Pay to over a million merchant locations across the US.\n- As the CTO of North America for Mobileway, we pioneered text messaging, sending the first ever cross-carrier messages, triggering the mass-adoption of SMS in the US.\n\nI am an avid surfer, I love wake up on the ocean in my sailboat during down times.\n\nIf you want to be a part of this technology world, send me a genuine request and I will be happy to connect.</p>",
+        "htmldesc":"<p>Tony Rose, Founder & CEO Proof Market. Proof Market was founded to empower individuals to take custody of and control their own data with emerging privacy by design Digital Identity technology. The company initiated the Linux Foundation Public Health COVID-19 Credentials Initiative, the US Vaccine Credentials Focus Group, and led the introduction of AB 2004 in California authorizing verifiable credentials for COVID-19 and other medical test results. Proof Market developed and contributed the MedCreds platform to the Linux Foundation, helping to keep the film industry operating during the pandemic. Tony is on the drafting committee for the Good Health Pass Collaborative Interoperability Framework at the Trust over IP Foundation. Proof Market is now developing the Good Health Pass specification in open source at the Linux Foundation for Public Health.</p>",
         "social":[
 
           {
@@ -1146,6 +1146,26 @@
         "post": "Co-Founder & CEO, Stably",
         "shortdesc":"",
         "htmldesc":"<h4></h4><p></p>",
+        "social":[
+          {
+            "icon":"fab fa-twitter",
+            "url":"/",
+            "title":"Twitter"
+          },
+          {
+            "icon":"fab fa-linkedin-in",
+            "url":"/",
+            "title":"Linked In"
+          }
+        ]
+    },
+    {
+        "id": 57,
+        "img": "assets/images/hsin.jpg",
+        "name": "Hsin-Ju Chuang",
+        "post": "CEO of Dystopia Labs",
+        "shortdesc":"",
+        "htmldesc":"<h4></h4><p>CEO & Founder of Dystopia Labs. Was the former Head of Growth at Stellar, Ex-Head of Growth at Solana, & then Ex-Director at Tezos.</p>",
         "social":[
           {
             "icon":"fab fa-twitter",
