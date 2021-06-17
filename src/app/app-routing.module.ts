@@ -8,6 +8,7 @@ const routes: Routes = [
   { path: 'home-v3', loadChildren: () => import('./components/pages/home-v3/home-v3.module').then(m => m.HomeV3Module), data: { breadcrumb: 'Homepage' } },
   // About
   { path: 'about', loadChildren: () => import('./components/pages/about/about.module').then(m => m.AboutModule), data: { breadcrumb: 'About Us' } },
+  { path: 'privacy', loadChildren: () => import('./components/pages/privacy/privacy.module').then(m => m.PrivacyModule), data: { breadcrumb: 'Privacy' } },
   // Speakers
   { path: 'speakers', loadChildren: () => import('./components/pages/speakers/speakers.module').then(m => m.SpeakersModule), data: { breadcrumb: 'Speakers' } },
   { path: 'speaker-details/:id', loadChildren: () => import('./components/pages/speaker-details/speaker-details.module').then(m => m.SpeakerDetailsModule), data: { breadcrumb: 'Speakers' } },

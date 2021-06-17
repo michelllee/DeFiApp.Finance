@@ -1,4 +1,4 @@
-import { Component, OnInit, HostListener, Inject } from '@angular/core';
+import {Component, OnInit, HostListener, Inject, Input} from '@angular/core';
 import { DOCUMENT } from '@angular/common';
 import navigation from '../../../data/navigation.json';
 import {environment} from '../../../../environments/environment';
@@ -15,6 +15,7 @@ export class HeaderTwoComponent implements OnInit {
   public registerLink = environment.registerLink;
   // Navigation
   navMethod: boolean = true;
+  @Input() sticky = false;
   toggleNav() {
     this.navMethod = !this.navMethod;
   }
@@ -26,6 +27,10 @@ export class HeaderTwoComponent implements OnInit {
   // Sticky Header
   @HostListener('window:scroll', ['$event'])
   onWindowScroll(_e:any) {
+
+    if(this.sticky){
+      return;
+    }
      if (window.pageYOffset > 110) {
        let element = <HTMLElement>document.getElementById('sticky-header');
        element.classList.add('sticky');

@@ -1,5 +1,5 @@
 <header class="header-area header-area-v2">
-    <div class="header-navigation" id="sticky-header">
+    <div class="header-navigation" [class.sticky]="sticky" id="sticky-header">
         <div class="container">
             <div class="nav-container d-flex align-items-center justify-content-between" [ngClass]="visible ? '' : 'breakpoint-on'" (window:resize)="detectHeader()">
                 <!-- site logo -->
