@@ -734,27 +734,6 @@
         ]
     },
     {
-        "id": 36,
-        "img": "assets/images/us.jpg",
-        "name": "Goose Wayne",
-        "post": "Founder & CEO, GooseFX",
-        "shortdesc":"",
-        "htmldesc":"<h4></h4><p>Goose Wayne is the Founder/CEO at GooseFX, a full suite DeFi platform built on Solana implementing P2P yield farming, tokenized stocks, and derivatives trading. He also founded Quantum Labs which is an automated trading firm for automated directional, market making, and arbitrage bots. Usman has years of experience in algorithmic trading, Web3 dev, and mining operations.</p>",
-        "social":[
-
-          {
-            "icon":"fab fa-twitter",
-            "url":"/",
-            "title":"Twitter"
-          },
-          {
-            "icon":"fab fa-linkedin-in",
-            "url":"/",
-            "title":"Linked In"
-          }
-        ]
-    },
-    {
         "id": 37,
         "img": "assets/images/thomas.jpg",
         "name": "Thomas Cox",
